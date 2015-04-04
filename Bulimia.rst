@@ -1,21 +1,22 @@
 Bulimia nervosa
 ---------------
 
-Die Essstörung Bulimia nervosa zeichnet sich durch häufige Essepisoden aus, die
-als Essanfall, Fressanfall oder Heisshungerattacke bezeichnet werden. Dabei
-verschlingen die PatientInnen meistens sehr rasch grössere Nahrungsmengen. Diese
-Attacken ereignen sich von einmal wöchentlich bis zu mehrmals täglich. Mehr als
-der Hälfte der PatientInnen leidet fast täglich an solchen Attacken. In den
-zwischen 15 Minuten und 4 Stunden dauernden Essanfällen wird zwischen 3000 und
-4000 Kalorien verschlungen. In der Literatur wird von Fressanfällen bis zu 15000
-Kalorien berichtet. Die PatinetInnen zügeln ihr Essverhalten stark neben den
-episodischen Essanfällen. Sie essen sehr wenig oder auch gar nichts, bis sie ihr
-Essverhalten nicht mehr kontrollieren können und mit Heisshunger in eine
-Fressattacke hinein geraten. Als intermittierendes Fasten wurde dieser Ablauf in
-der Fachliteratur beschrieben. Oft zeigen PatientInnen mit einer Bulimia nervosa
-Mangelerscheinungen, da sie in den Phasen des restriktiven Essens "dickmachende"
-oder ungesunde Nahrungsmittel meiden, werden in den Phasen von ungezügeltem
-Essen "verbotene" Lebensmittel kompensatorisch verzehrt.
+Pudel/Westenhöfer (2003) beschreiben die Essstörung Bulimia nervosa als häufige
+Essepisoden, die als Essanfall, Fressanfall oder Heisshungerattacke bezeichnet
+werden. Dabei verschlingen die PatientInnen meistens sehr rasch grössere
+Nahrungsmengen. Diese Attacken ereignen sich von einmal wöchentlich bis zu
+mehrmals täglich. Mehr als der Hälfte der PatientInnen leidet fast täglich an
+solchen Attacken. In den zwischen 15 Minuten und 4 Stunden dauernden Essanfällen
+wird zwischen 3000 und 4000 Kalorien verschlungen. In der Literatur wird von
+Fressanfällen bis zu 15000 Kalorien berichtet. Die PatinetInnen zügeln ihr
+Essverhalten stark neben den episodischen Essanfällen. Sie essen sehr wenig oder
+auch gar nichts, bis sie ihr Essverhalten nicht mehr kontrollieren können und
+mit Heisshunger in eine Fressattacke hinein geraten. Als intermittierendes
+Fasten wurde dieser Ablauf in der Fachliteratur beschrieben. Oft zeigen
+PatientInnen mit einer Bulimia nervosa Mangelerscheinungen, da sie in den Phasen
+des restriktiven Essens "dickmachende" oder ungesunde Nahrungsmittel meiden,
+werden in den Phasen von ungezügeltem Essen "verbotene" Lebensmittel
+kompensatorisch verzehrt.
 
 Die PatientInnen versuchen die Folgen der übermässigen Nahrungsaufnahme mit
 Gegenmassnahmen zu kontrollieren. Die meisten PatientInnen führen nach einem

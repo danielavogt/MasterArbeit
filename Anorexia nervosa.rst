@@ -4,12 +4,13 @@ Definition Essstörungen
 
 Anorexia nervosa ICD-10 F50.0
 -----------------------------
-Das zentrale Mermal einer Anorexia nervosa ist die Weigerung der PatientInnen
-eine genügende Nahrungsmenge zu sich zu nehmen. Diese Essstörung zeichnet sich
-durch ein rigid gezügeltes Essen aus. Die Kalorienzufuhr wird sehr gering
-gehalten. Es werden Mahlzeiten ausgelassen oder auf geringe Menge von für die
-PatientInnen vermeintlich "gesunde" Lebensmittel reduziert. Dabei vermeiden sie
-hochkalorische, insbesondere kohlenhydrat- oder fettreiche Nahrung.
+Das zentrale Mermal einer Anorexia nervosa ist laut Pudel/Westenhöfer (2003) die
+Weigerung der PatientInnen eine genügende Nahrungsmenge zu sich zu nehmen. Diese
+Essstörung zeichnet sich durch ein rigid gezügeltes Essen aus. Die
+Kalorienzufuhr wird sehr gering gehalten. Es werden Mahlzeiten ausgelassen oder
+auf geringe Menge von für die PatientInnen vermeintlich "gesunde" Lebensmittel
+reduziert. Dabei vermeiden sie hochkalorische, insbesondere kohlenhydrat- oder
+fettreiche Nahrung.
 
 Manche PatientInnen die an einer Anorexia nervosa erkrankt sind, versuchen ihr
 Gewicht durch Erbrechen oder durch die Einnahme von Appetitzügler, Abführmittel
