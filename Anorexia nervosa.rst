@@ -50,15 +50,15 @@ Bulimischer Typ
 
 Man geht davon aus, dass die Hälfte der anorektischen PatientInnen eine
 bulimische Symptomatik zeigen. Wiederholte Fressanfälle, teilweise mit selbst-
-induziertem Erbrechen oder Laxantienabusus. Die andere Hälfte der Anorexie-
-PatientInnen erreichen ihr niedriges Körpergewicht ausschliesslich durch extreme
-Einschränkung der Nahrungszufuhr und meist durch übersteigertes sportliches
-Training. Die PatientInnen mit einer bulimischen Anorexie zeigen viele
-gemeinsame Merkmale mit der Bulimie. Das Gewicht hingegen ist der
+induziertem Erbrechen oder Laxantienabusus. Die andere Hälfte der
+Anorexie-PatientInnen erreichen ihr niedriges Körpergewicht ausschliesslich
+durch extreme Einschränkung der Nahrungszufuhr und meist durch übersteigertes
+sportliches Training. Die PatientInnen mit einer bulimischen Anorexie zeigen
+viele gemeinsame Merkmale mit der Bulimie. Das Gewicht hingegen ist der
 unterschiedliche Faktor. Die Verhaltensarten der PatientInnen mit bulimischer
 Anorexie und diejenigen PatientInnen mit einer Bulimie und Normalgewicht sind
-vergleichbar, unterscheiden sich jedoch stark von Verhaltensarten der Patentinnen
-mit einer restriktiven Anorexie.
+vergleichbar, unterscheiden sich jedoch stark von Verhaltensarten der
+Patentinnen mit einer restriktiven Anorexie.
 
-Viele PatientInnen wechseln im Verlauf ihrer Erkrankung zwischen den Krankheits-
-bildern. Vergleichbar ist dieses Phänomen mit einer Suchtverlagerung.
+Viele PatientInnen wechseln im Verlauf ihrer Erkrankung zwischen den
+Krankheitsbildern. Vergleichbar ist dieses Phänomen mit einer Suchtverlagerung.
