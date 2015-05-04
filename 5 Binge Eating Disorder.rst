@@ -31,5 +31,5 @@ Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, 
   C Es besteht deutliches Leiden wegen der Essanfälle.
 
   D Die Essanfälle treten im Durchschnitt an Mindestens zwei Tagen in der Woche für sechs Monate auf.
-  
+
   E Die Essanfälle gehen nicht mit dem regelmässigen Einsatz von unangemessenen kompensatorischen Verhaltensweisen einher (z.B. Purging-Verhalten, Fasten oder exzessive körperliche Betätigung) und sie treten nicht ausschliesslich im Verlauf einer Anorexia nervosa oder Bulimia nervosa auf.""
