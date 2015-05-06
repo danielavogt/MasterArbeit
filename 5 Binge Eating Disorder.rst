@@ -1,6 +1,8 @@
 Binge Eating Disorder
 ---------------------
 
+In einem späteren Kapitel werde ich mich intensiv mit einem verhaltenstherapeutisch-systemisch kombinierten Behandlungskonzept für eine Binge Eating Störung befassen. Deshalb wird dieser Essstörung in diesem Kapitel besondere Aufmerksamkeit geschenkt.
+
 Nach Pudel/Westenhöfer (2003) kann die Essstörung BED mit der Bulimia nervosa
 verglichen werden. Allerdings  fallen die charakteristischen
 Kompensationsverhalten weg. Durch die häufigen hochkalorischen Nahrungsaufnahmen
@@ -32,4 +34,17 @@ Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, 
 
   D Die Essanfälle treten im Durchschnitt an Mindestens zwei Tagen in der Woche für sechs Monate auf.
 
-  E Die Essanfälle gehen nicht mit dem regelmässigen Einsatz von unangemessenen kompensatorischen Verhaltensweisen einher (z.B. Purging-Verhalten, Fasten oder exzessive körperliche Betätigung) und sie treten nicht ausschliesslich im Verlauf einer Anorexia nervosa oder Bulimia nervosa auf.""
+  E Die Essanfälle gehen nicht mit dem regelmässigen Einsatz von unangemessenen kompensatorischen Verhaltensweisen einher (z.B. Purging-Verhalten, Fasten oder exzessive körperliche Betätigung) und sie treten nicht ausschliesslich im Verlauf einer Anorexia nervosa oder Bulimia nervosa auf."
+
+Ätiologie der Binge Eating Disorder
+-----------------------------------
+
+Munsch, Biedert und Schlup weisen darauf hin, dass zurzeit keine aktuellen Forschungsbefunde bezüglich einer einheitlichen Ätiologie der BES vorliegen (Striegel-Moore et al., 2007). Die heutigen Erklärungsversuche basieren auf Querschnitts- oder retrospektiven Untersuchungen. Man geht davon aus, dass die BES eine multifaktorielle Ätiologie ausweist. Allerdings kommen zwei Gruppen von Risikofaktoren eine besondere Relevanz zu: Es sind dies einerseits Faktoren, die das Risiko von psychischen Störungen allgemein erhöhen und anderseits Faktoren, die das Risiko von unkontrolliertem, emotionalem Essverhalten und allfälligem Übergewicht beziehungsweise Adipositas begünstigen. Ein Zusammenwirken von
+ psychischen Faktoren wie perfektionistische Persönlichkeitszüge (hohe persönliche Anspruchshaltungs),
+ das vermehrte Erleben von Stress,
+ Konditionierungseffekte,
+ ein ungünstiger Umgang mit Figur und Gewicht in der Familie
+mit Bedingungen, die für ein erhöhtes Körpergewicht prädisponieren (Genetik) oder begünstigen (Nahrungsmittelangebot, gesellschaftliche Wertvorstellungen)
+legen die Entstehungsfaktoren einer BES nahe.
+
+Tabelle S. 35 Prädisponierende Faktoren übernehmen......
