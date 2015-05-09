@@ -41,3 +41,8 @@ Wie bei der Bulimie treten bei der BES Episoden von Essanfällen auf. Dabei erle
  Dysfunktionale Denkschemata, Konditionierungseffekte
  Eingeschränkte Fertigkeiten zur Bewältigung belastender Situationen
  Defizitäre Impuls- und Emotionsregulation
+
+Adipositas
+----------
+
+In Reich und Cierpka, 2010, beschreiben Hippel und Reich das Störungsbild der Adipositas aus ihrer psychodynamischen Sicht als Lösungsversuch für als unlösbar erlebte Konflikte. 
