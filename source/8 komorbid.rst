@@ -1,5 +1,6 @@
+=========================================
 Psychische Ko-Morbidität von Essstörungen
------------------------------------------
+=========================================
 
 Alle Essstörungen weisen häufig eine Ko-Morbidität mit anderen seelischen Erkrankungen auf. Dabei ginden sich die höchsten Belastungen bei Bulimikerinnen, gefolgt von Betroffenen mit Binge-Eating-Störung. Wesentlich weniger belastet sind Anorektikerinnen (Hudson et al. 2007). Die Ko-Morbiditätsraten mit mindestens einer weiteren seelischen Störung betragen für die Bulimie 95 %, für die Binge-Eating-Störung 79 % und für die Anorexie 56 % (Reich und Cierpka, 2010).
 

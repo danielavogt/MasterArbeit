@@ -1,5 +1,6 @@
+=========================================
 Abgrenzung und Beziehung der Essstörungen
------------------------------------------
+=========================================
 
 Die verschiedenen Essstörungen überschneiden sich in ihren Symptombildern und stehen in einer Beziehung zueinander. So kann eine junge Frau mit einer Anorexia nervosa diese Form der Essstörung erfolgreich bewältigen und danach in eine Bulimia nervosa hineinrutschen. Daraus kann geschlossen werden, dass es dieser Frau nicht gelungen ist, ihre grosse Angst vor dem Gewicht und vor dem dicker werden zu überwinden. Das kompensatorische Verhalten nach Essanfällen kann beispielsweise abgelegt werden, die Heisshungerattacken jedoch nicht. Meist ist die Folge, dass die betroffenen Personen an Gewicht zunehmen und sogar eine Adipositas, insbesondere eine Binge Eating Störung (BES) entwickeln können. Die Übergänge sind dementsprechend fliessend. Pudel, Westenhöfer, 2003 zeigen die Beziehungen zwischen den verschiedenen Essstörungen wie folgt:
 

@@ -1,5 +1,6 @@
+=====================================================
 Stationäre Behandlung von Essstörungen und Adipositas
------------------------------------------------------
+=====================================================
 
 In vielen psychiatrischen Kliniken in der Schweiz werden Programme zur Behandlung von Essstörungen und Adipositas angeboten. Zusätzlich gibt es einige wenige Spezialkliniken, die sich dieser Problematik annehmen. Die Behandlungskonzepte sind nicht veröffentlicht und nur schwer zugänglich. Allerdings kann davon ausgegangen werden, dass ein kontrolliertes Essprogramm bei den meisten den Kern der Behandlung ausmacht. Daneben stellen die psychotherapeutische sowie die medizinische Betreuung weitere wichtige Pfeiler im Umgang mit der Erkrankung dar. Ergänzend werden oft Kunst-, Bewegungs- und Ergotherapie angeboten. Patientinnen und Patienten können meist auch von einem Sozialdienst profitieren. In einigen Kliniken wird von der Pflege eine Milieutherapie mit teilweiser Mitwirkung der Pflegefachleute in Indikationsgefässen angeboten.
 

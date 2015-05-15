@@ -1,5 +1,6 @@
+==========
 Einleitung
-----------
+==========
 
 Seit ich denken kann halte ich mich für zu dick. Vieles was ich in der folgenden Arbeit beschreibe, habe ich am eigenen Leib erfahren. Meine Jugendzeit zeichnete sich durch viele Diskriminierungen aus, insbesondere durch meine nächsten Bezugspersonen. Ich glaube, ich kenne jede erdenkliche Diät. Immer wieder von neuem versuchte ich mein Gewicht unter Kontrolle zu halten. Fast ausschliesslich sah ich nur den Weg mit einer restriktiven Essenskontrolle. Dies führte unweigerlich zu einem jahrelangen auf und ab meines Gewichtes, natürlich letztendlich mehr rauf als runter. Faktisch verdoppelte ich mein Gewicht über die Jahre. Einzig in der Schwangerschaft stabilisierte es sich. Ich nahm wieder Hunger und Sätting wahr. Kaum wahren meine beiden Kinder auf der Welt, litt ich enorm an Schlafmangel, was ich wiederum mit vermehrter Nahrungszufuhr kompensierte. Nach 40 Jahren Kampf war ich des kämpfens müde und ich entschied mich zu einer Magenbypassoperation. Diese Operation ermöglichte mir eine Gewichtsreduktion von rund 50 kg. Im dritten Jahr nach der Operation reduzierte sich allerdings diese Abnahme um 5 kg mit dem vorab profezeiten Rebounding.
 

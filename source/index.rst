@@ -16,10 +16,7 @@ Contents:
 
    1 Einleitung
    2 Zielsetzung
-   3 Anorexia nervosa
-   4 Bulimia
-   5 Binge Eating Disorder
-   6 Adipositas
+   3 Definition Essstoerungen
    7 Abgrenzung
    8 komorbid
    9 Stationaere Behandlung

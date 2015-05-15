@@ -1,5 +1,6 @@
+==========================
 Kontrolliertes Essprogramm
---------------------------
+==========================
 
 Um eine Normalisierung des Essverhaltens zu erlangen, bieten stationäre Behandlungen stark strukturierte Mahlzeiten an. In der Klinik Wysshölzli in Herzogenbuchsee steht dahinter die Maxime einer gesunden, ausgewogenen Ernährung, die sich an den Richtlinien des Bundesamtes für Gesundheit orientiert. Eine vegetarische Ernährung ist möglich, eine vegane nicht. Die 3 Hauptmahlzeiten werden auf durchschnittlich 2000 Kilokalorien täglich ausgelegt, für jede Patientin gerichtet und kontrolliert. Diese strenge Strukur kann individuel und störungsspezifisch angepasst werden.
 
