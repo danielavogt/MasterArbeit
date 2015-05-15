@@ -1,5 +1,5 @@
 Binge Eating Disorder/Binge Eating Störung BES
----------------------
+----------------------------------------------
 
 In einem späteren Kapitel wird ein verhaltenstherapeutisch-systemisch kombiniertes Behandlungskonzept für eine Binge Eating Störung entwickelt. Deshalb wird dieser Essstörung in diesem Kapitel besondere Aufmerksamkeit geschenkt. Zusätzlich wird die Adipositas ebenfalls vertiefer beschrieben, da die Entstehung einer BES höchstwahrscheinlich auf einer Ausgangslage die in Zusammenhang mit einer Adipositas steht fusst.
 
@@ -40,11 +40,9 @@ Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, 
 -----------------------------------
 
 Munsch, Biedert und Schlup weisen darauf hin, dass zurzeit keine aktuellen Forschungsbefunde bezüglich einer einheitlichen Ätiologie der BES vorliegen (Striegel-Moore et al., 2007). Die heutigen Erklärungsversuche basieren auf Querschnitts- oder retrospektiven Untersuchungen. Man geht davon aus, dass die BES eine multifaktorielle Ätiologie ausweist. Allerdings kommen zwei Gruppen von Risikofaktoren eine besondere Relevanz zu: Es sind dies einerseits Faktoren, die das Risiko von psychischen Störungen allgemein erhöhen und anderseits Faktoren, die das Risiko von unkontrolliertem, emotionalem Essverhalten und allfälligem Übergewicht beziehungsweise Adipositas begünstigen. Ein Zusammenwirken von
-psychischen Faktoren wie 
- perfektionistische Persönlichkeitszüge (hohe persönliche Anspruchshaltungs),
- das vermehrte Erleben von Stress,
- Konditionierungseffekte,
- ein ungünstiger Umgang mit Figur und Gewicht in der Familie
+psychischen Faktoren wie perfektionistische Persönlichkeitszüge (hohe persönliche Anspruchshaltungs),
+das vermehrte Erleben von Stress,vKonditionierungseffekte,
+ein ungünstiger Umgang mit Figur und Gewicht in der Familie
 mit Bedingungen, die für ein erhöhtes Körpergewicht prädisponieren (Genetik) oder begünstigen (Nahrungsmittelangebot, gesellschaftliche Wertvorstellungen)
 legen die Entstehungsfaktoren einer BES nahe.
 

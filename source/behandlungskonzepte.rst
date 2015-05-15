@@ -11,8 +11,8 @@ Folgende Therapieelemente werden angeboten:
 
 Somatische Betreuung, diverse Therapien, Stationsgruppe mit Pflege, therapeutische Belastungserprobungen, Essgespräche, therapeutisches Kochen, gemeinsame Mahlzeiten, Gruppenvisite, Familiengespräche etc.
 Diese Aufzählung ist nicht abschliessend.
- Die psychodynamische Einzeltherapie basiert auf einem geschützten Raum, der von zentraler Bedeutung ist und ein Kontrapunkt zum sonst hochstrukturierten und kontrollierten Programm ist. In diesem geschützten Umfeld geht es hauptsächlich um die Erarbeitung der Grundkonflikte. Die Patientinnen sollen Zusammenhänge zwischen Symptomen und Konflikten erkennen. Die psychodynamischen Instrumente der Übertragung und Gegenübertragung werden genutzt. In der Gruppentherapie werden innerpsychische und interpersonelle Gefühle, Fantasien und Konflikte benennt und reflektiert.
- Zusätzlich wird vom Pflegeteam eine Stationsgruppe angeboten, in der die Themen rund um das Essverhalten aufgegriffen werden.
+Die psychodynamische Einzeltherapie basiert auf einem geschützten Raum, der von zentraler Bedeutung ist und ein Kontrapunkt zum sonst hochstrukturierten und kontrollierten Programm ist. In diesem geschützten Umfeld geht es hauptsächlich um die Erarbeitung der Grundkonflikte. Die Patientinnen sollen Zusammenhänge zwischen Symptomen und Konflikten erkennen. Die psychodynamischen Instrumente der Übertragung und Gegenübertragung werden genutzt. In der Gruppentherapie werden innerpsychische und interpersonelle Gefühle, Fantasien und Konflikte benennt und reflektiert.
+Zusätzlich wird vom Pflegeteam eine Stationsgruppe angeboten, in der die Themen rund um das Essverhalten aufgegriffen werden.
 Die symptomzentrierte Angebote bieten den Patientinnen die Möglichkeit Gespräche symptomfokussiert zu führen und sich intensiv mit ihrem Verhalten auseinander zu setzen. In diesem Bereich wird verhaltensorientiert gearbeitet. Dabei sind Verträge und Abmachungen, Regeln und Üben zentrale Instrumente.
 
 Die Therapie wird in drei Phasen verstanden:
