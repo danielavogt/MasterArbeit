@@ -46,6 +46,8 @@ master_doc = 'index'
 project = u'Binge Eating Disorder'
 copyright = u'2015, Daniela Vogt Fischer'
 
+language = 'de'
+
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
@@ -177,15 +179,12 @@ htmlhelp_basename = 'OwnCloudBlackBookdoc'
 # -- Options for LaTeX output --------------------------------------------------
 
 latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
+
 
 'papersize': 'a4paper',
-
-# The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
-
 'pointsize': '11pt',
+'classoptions': ',german,twoside,doublespace',
+'printindex': '',
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
@@ -217,6 +216,8 @@ latex_documents = [
 
 # If false, no module index is generated.
 #latex_domain_indices = True
+
+
 
 
 # -- Options for manual page output --------------------------------------------
