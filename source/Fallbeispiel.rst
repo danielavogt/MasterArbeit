@@ -45,4 +45,8 @@ Frau König ist die erste Tochter einer damals knapp 24jährigen Schweizerin und
 
 Väterlicherseits lebt die Familie von Frau König unterdessen wieder in Deutschland. Ihr Vater hat einen vier Jahre älteren Bruder, eine zwei Jahre jüngere Schwester und einen vier Jahre jüngeren Bruder. Der ältere Bruder lebt mit seiner Frau in Deutschland, die Schwester lebt alleine, der jüngere Bruder mit seiner Frau und seinen vier Kindern. Die Grosseltern väterlicherseits sind bereits verstorben.
 
-Genogramm einfügen 
+Genogramm einfügen
+
+ Problemsystem aus systemischer Sicht
+
+Jürg Liechti beschreibt in "Magersucht in Therapie, Gestaltung therapeutischer Beziehungsprozesse, 2008" die Analyse eines Problemsystems und die darauffolgende Überführung in ein Therapiesystem. Bei meiner Patientin bin ich davon ausgegangen, dass ihr Freund, ihre Chefin, ihr bester Freund Beni, ihre Freundin Silvia sowie aus ihrer Familie ihre jüngere Schwester sowie ihre Mutter.  
