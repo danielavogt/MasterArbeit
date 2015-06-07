@@ -237,19 +237,9 @@ Fettgewebe, das zu einer Beeinträchtigung der Gesundheit führt. Übergewicht
 bezieht sich auf das Körpergewicht und bezieht den Anteil Fettgewebe nicht mit
 ein.
 
-Adipositas, ohne Fressanfälle und/oder kompensatorisches Erbrechen, wird heute
-als die häufigste aller Essstörungen bezeichnet. Die Entstehung von Adipositas
-ist noch immer nicht wissenschaftlich erklärt. Über die letzten Jahrzehnte
-wurde die vereinfachte Meinung, dass alleine die Menge der Nahrungszufuhr für
-Adipositas verantwortlich ist, falsifiziert und stark differenziert. Nach wie
-vor werden umfangreiche Studien durchgeführt, um die komplexen Zusammenhänge
-von Stoffwechsel, Nahrungszufuhr, Nährstoffen und Verbrauch zu entschlüsseln.
+Adipositas, ohne Fressanfälle und/oder kompensatorisches Erbrechen, wird von einigen Fachleuten als die häufigste aller Essstörungen bezeichnet. Andere sind wiederum der Meinung, dass Adipositas keine Essstörung ist sondern ein Zustand. Die Entstehung von Adipositas ist noch immer nicht wissenschaftlich erklärt. Über die letzten Jahrzehnte wurde die vereinfachte Meinung, dass alleine die Menge der Nahrungszufuhr für Adipositas verantwortlich ist, falsifiziert und stark differenziert. Nach wie vor werden umfangreiche Studien durchgeführt, um die komplexen Zusammenhänge von Stoffwechsel, Nahrungszufuhr, Nährstoffen und Verbrauch zu entschlüsseln.
 Adipositas kann aus einer ungünstigen Balance von erhöhter oder hochkalorischer
-Nahrungseinnahme im Verhältnis zum Verbrauch resultieren
-(Energiebilanzprinzip). Die entwickelten Therapien, die einzig auf einem
-Umkehrschluss (weniger Zufuhr und mehr Bewegung führt zur Gewichtsreduktion)
-basieren, waren jedoch meist nicht nachhaltig erfolgreich und bewirkten
-letztendlich eine Gewichtszunahme.
+Nahrungseinnahme im Verhältnis zum Verbrauch resultieren (Energiebilanzprinzip). Die entwickelten Therapien, die einzig auf einem Umkehrschluss (weniger Zufuhr und mehr Bewegung führt zur Gewichtsreduktion) basieren, waren jedoch meist nicht nachhaltig erfolgreich und bewirkten letztendlich eine Gewichtszunahme.
 
 Neben dem übermässigen, impulsiven oder fortwährendem Essen steht eine
 körperliche Passivität im Fokus des Störungsbildes. Adipositas stellt ein
