@@ -150,7 +150,7 @@ Binge Eating Disorder/Binge Eating Störung BES
 In einem späteren Kapitel wird ein verhaltenstherapeutisch-systemisch
 kombiniertes Behandlungskonzept für eine Binge Eating Störung entwickelt.
 Deshalb wird dieser Essstörung in diesem Kapitel besondere Aufmerksamkeit
-geschenkt. Zusätzlich wird die Adipositas ebenfalls vertiefer beschrieben, da
+geschenkt. Zusätzlich wird die Adipositas ebenfalls vertiefter beschrieben, da
 die Entstehung einer BES höchstwahrscheinlich auf einer Ausgangslage die in
 Zusammenhang mit einer Adipositas steht fusst.
 
