@@ -13,7 +13,14 @@ Unterdessen bin ich der Überzeugung, dass ein stationärer Aufenthalt eine Init
 Behandlung einer Binge Eating Störung mit verhaltenstherapeutischen und systemischen Elementen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Der systemische Ansatz bietet sich für mich als Modell für die Therapiegestaltung an, als Rahmen in dem einzelne Elemente der Verhaltenstherapie aufgenommen werden können und gezielt störungsspezifisch gearbeitet werden kann. Allerdings erachte ich die systemische Psychotherapie für jede Art von psychischen Störungen als Mittel der Wahl, das mit sinnvollen Elementen aus anderen Schulen ergänzt werden kann. Das Verständnis für Systeme, wie sie sich verändern, organisieren und verhalten empfinde ich als grosse Bereicherung der Psychotherapie. Meines Wissens nimmt keine andere Schule diese Dimension auf. Da wir Menschen soziale Wesen sind und uns hauptsächlich als Teil eines Umfelds verstehen und uns stark darauf beziehen, darf in der Psychotherapie die Arbeit mit dem Patientinnen- oder Problemsystem neben der Arbeit mit dem Individuum nicht vernachlässigt werden. Jedes System hat zudem Selbstheilungs- oder reorganisationskräfte die es gilt zu nutzen.
 
+Die Behandlung einer Binge Eating Störung profitiert von einem geschickten Einsatz beider Schulen. Die konkreten Ansatzpunkte der Verhaltenstherapie stellen der Patientin hilfreiche Modelle zur Selbsterkennung und Strategien zum Selbstmanagement zur Verfügung. Mit der systemischen Psychotherapie kann die Patientin und ihr Umfeld in der Interaktion entscheidende Entwicklungen und Veränderungen durchlaufen.  
+
+Systemische Psychotherapie
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Die systemische Therapie sieht die Patientin als Expertin ihrer Situation. Deshalb wird nichts über ihren Kopf entschieden, sondern für jeden Schritt ihren Auftrag abgeholt. Die Patientin erlebt sich so selbstwirksam und kann damit ihr Selbstwertgefühl stärken. Gleichzeitig bezieht man die nächsten Bezugspersonen der Patientin in den Therapieprozess mit ein. So kann das Problemsystem direkt erlebt werden. Die Patientin kann mit gezielten Fragen der Therapeutin ihre Lebenssituation aus anderen Blickwinkeln erkennen. Mit der Unterstützung ihrer nächsten Bezugspersonen gewinnt sie an Veränderungsmotivation und zusätzlichen Ressourcen aus ihrem Umfeld. Das Bewusstsein, dass auch die Therapeutin Teil des Problemsystem ist, ermöglicht eine zusätzliche Dimension. Konkret heisst das, dass ein System sich einzig durch die Anwesenheit einer weiteren Person schon von alleine neu konstelliert. Wenn nun diese Person - die Therapeutin - sich dieses Axiom bewusst ist und in dieser Phase des Aufbruchs (von bestehenden Mustern) und der Neuorganisation gezielt Ressourcen anspricht oder neue Perspektiven eröffnet, können Veränderungsprozesse oder Entwicklungsanreize angestossen werden.
 
 Verhaltenstherapie
 ^^^^^^^^^^^^^^^^^^
@@ -27,5 +34,4 @@ Ein kontrolliertes Essprogramm, ein Skillstraining oder auch ein soziales Kompet
 - stark strukturiertes Essprogramm
 - Rückfallkonzept
 
-Systemische Psychotherapie
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Die verhaltenstherapeutischen Elemente können insbesondere störungsfokussiert eingesetzt werden. Das Erkennen von auslösenden Situationen für Essanfälle, entsprechende Strategien um diese Risikosituationen zu bewältigen hilft der betroffenen Patientin nachhaltiger abstinent zu bleiben. Möglichkeiten zum Aufbau einer gesunden Emotionsregulation kann das Auftreten von triggernden Momenten verringern. Ergänzend dazu ist das bewusst werden seiner destruktiven Gedanken sowie abwertenden Annahmen über sich selber und das Üben von Gegenmassnahmen wichtig. Das kontrollierte Essprogramm ist ein hochstrukturierter Rahmen, indem die Patientinnen sich ein gesundes, ausgewogenes Essverhalten aneignen zu können.
