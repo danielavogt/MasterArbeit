@@ -92,9 +92,10 @@ verstehen. Patientinnen mit einer Essstörungen sind oft im Grundkonflikt
 zwischen Soziotropie und Autonomie verstrickt.
 
 Der *Umgang mit Wut* ist bei Essstörungen oft gekoppelt mit dem destruktiven Essverhalten.
+
 Bei allen Essstörungen ist eine Dynamik zwischen der Tendenz zur Vermeidung
 unangenehmer Erfahrungen, der geringen Selbstbestimmung sowie eine geringe
 Kooperation auffällig. Bei den restriktiven Anorektikerinnen ist die Persistenz
 ein häufiges Persönlichkeitsmerkmal. Beeindruckender Fleiss, extreme Ausdauer,
 gnadenloser Perfektionsmus, Rigidität und Zwanghaftigkeit begegnen einem in
-der Therapie. 
+der Therapie.
