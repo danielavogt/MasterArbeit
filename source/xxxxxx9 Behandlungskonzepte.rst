@@ -64,7 +64,7 @@ Management der eigenen Lebenssituation.
 
 In seiner Vorlesung benennt zwei zentrale Prinzipien seines Therapieverständnis (2014): in den Familiengesprächen verfolgt er einen allparteilichen Ansatz und gleichzeitig ist seine Patientin die Expertin ihrer Problematik.
 
-Beim Einbezug von nächsten Bezugspersonen gibt es im Bereich von Missbrauchsthemen Grenzen. In dieser Thematik wäre der Schutz der Betroffenen prioritär zu berücksichtigen und darum wäre ein Mehrpersonensetting sehr sorgfältig, zurückhaltend und vorsichtig zu prüfen. 
+Beim Einbezug von nächsten Bezugspersonen gibt es im Bereich von Missbrauchsthemen Grenzen. In dieser Thematik wäre der Schutz der Betroffenen prioritär zu berücksichtigen und darum wäre ein Mehrpersonensetting sehr sorgfältig, zurückhaltend und vorsichtig zu prüfen.
 
 Verhaltenstherapeutischer Ansatz
 --------------------------------

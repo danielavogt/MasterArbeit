@@ -55,13 +55,8 @@ betroffen. Patientinnen versuchen häufiger ihr Essverhalten zu zügeln, was sie
 wiederum in Essattacken hineintreibt. Klinisch relevante Figur- und
 Gewichtssorgen begleitet die BES. Das Essverhalten ist bei der BES chaotisch.
 
-**TODO**: Quelle "Ein Arzt..."
-
 Insbesondere die BES ist meist mit einer Adipositas verbunden und ihre
-Ätiologie überschneidet sich in weiten Teilen. Ein Arzt der sich im Bereich der
-bariatrischen Chirurgie spezialisiert hat, benennt die Verbindung BES und
-Adipositas in seiner klinischen Beobachtung mit folgenden Zahlen: 30 -- 40 %
-seiner Patientinnen mit Adipositas haben eine BES, 20 -- 30 % zeigen
+Ätiologie überschneidet sich in weiten Teilen. Renward Hauser, Chirurg, der sich im Bereich der bariatrischen Chirurgie spezialisiert hat, benennt die Verbindung BES und Adipositas in seiner klinischen Beobachtung mit folgenden Zahlen: 30 -- 40 % seiner Patientinnen mit Adipositas haben eine BES, 20 -- 30 % zeigen
 subklinische Symptome. Insofern geht er davon aus, dass rund 60 % seiner
 Patientinnen mit einer BES kämpfen. Im klinischen Alltag kann heute davon
 ausgegangen werden, dass die BES und Adipositas kaum voneinander getrennt

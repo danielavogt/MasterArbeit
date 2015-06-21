@@ -16,16 +16,12 @@ Zwischenmahlzeiten zu sich, die jeweils 300 Kalorien beinhalten. Die Mahlzeiten
 werden von Pflegefachfrauen oder von Ernährungsberaterinnen begleitet und
 zeitlich begrenzt. Es wird ein Protokoll erstellt, auf das in der
 Psychotherapie eingegangen wird. Die Mahlzeiten finden im Speisesaal statt. Es
-gibt eine Sitzordnung, die einmal monatlich umgestellt wird. Patientinnen
+gibt eine Sitzordnung, die wöchentlich umgestellt wird. Patientinnen
 werden nicht nach ihren Störungsbilder separiert, sondern absichtlich
-durchmischt. Wenn sich Patientinnen während den Mahlzeiten auffällig verhalten
-(im Essen herumstochern, die Speisen in 1000 kleine Teile schneiden, Essen
-verschwinden lassen, auf andere Teller abschätzend starren, die Speisen
-herunterschlingen etc.) werden sie auf ihr destruktives Verhalten aufmerksam
-gemacht.
+durchmischt. Allerdings ist ein Tisch reserviert für neue Patientinnen, die alle Mahlzeiten gerichtet und kontrolliert einnehmen. Wenn sich Patientinnen während den Mahlzeiten auffällig verhalten (im Essen herumstochern, die Speisen in 1000 kleine Teile schneiden, Essen verschwinden lassen, auf andere Teller abschätzend starren, die Speisen herunterschlingen etc.) werden sie auf ihr destruktives Verhalten aufmerksam gemacht. 
 
 Bei den Patientinnen mit Bulimia nervosa wird darauf geachtet, welche
-Nahrungsmittel sinnvoll sind und nicht das Brechen begünstigen. Der Einstieg in
+Nahrungsmittel sinnvoll sind und das Brechen nicht begünstigen. Der Einstieg in
 den Normalisierungsprozess wird ebenfalls mit gerichteten Mahlzeiten begonnen.
 Allerdings wird rasch auf den gerichteten und kontrollierten Modus verzichtet.
 Gleichzeitig werden die Patientinnen vor der Einnahme allzu grosser

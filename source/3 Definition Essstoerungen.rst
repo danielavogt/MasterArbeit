@@ -32,12 +32,9 @@ reduziert. Dabei vermeiden sie hochkalorische, insbesondere kohlenhydrat- oder
 fettreiche Nahrung.
 
 Manche Patientinnen die an einer Anorexia nervosa erkrankt sind, versuchen ihr
-Gewicht durch Erbrechen oder durch die Einnahme von Appetitzüglern, Abführmitteln
-oder Entwässerungstabletten zu kontrollieren.
+Gewicht durch Erbrechen oder durch die Einnahme von Appetitzüglern, Abführmitteln oder Entwässerungstabletten zu kontrollieren.
 
-**TODO**: Satz nicht schön (. Wobei....)
-
-Diese Essstörung führt zu einem deutlich abgemagerten Körper. Wobei die
+Diese Essstörung führt zu einem deutlich abgemagerten Körper. Die
 Patientinnen versuchen, mit übergrosser, kaschierenden Kleidung ihren Körper zu
 verbergen.
 
@@ -153,7 +150,7 @@ Binge Eating Disorder/Binge Eating Störung BES
 In einem späteren Kapitel wird ein verhaltenstherapeutisch-systemisch
 kombiniertes Behandlungskonzept für eine Binge Eating Störung entwickelt.
 Deshalb wird dieser Essstörung in diesem Kapitel besondere Aufmerksamkeit
-geschenkt. Zusätzlich wird die Adipositas ebenfalls vertiefer beschrieben, da
+geschenkt. Zusätzlich wird die Adipositas ebenfalls vertiefter beschrieben, da
 die Entstehung einer BES höchstwahrscheinlich auf einer Ausgangslage die in
 Zusammenhang mit einer Adipositas steht fusst.
 
