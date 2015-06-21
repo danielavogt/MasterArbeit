@@ -55,7 +55,7 @@ Die zentralen Themen sind:
 - Geringes Selbstwertgefühl und das Bedürfnis gängigen Normen zu entsprechen
 - Dysfunktionale Denkschemata, die den Realitätsbezug erschweren
 - Eingeschränkte Fertigkeiten zur Bewältigung belastender Situationen
-
+ 
 (Waadt, Laessle, Pirke, 1992)
 
 Binge Eating Störung BES
