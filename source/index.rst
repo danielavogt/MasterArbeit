@@ -25,6 +25,7 @@ Contents:
    Tagung ENES
    Therapieschwerpunkte
    Fallbeispiel
+   Diskussion
 
 Indices and tables
 ==================
