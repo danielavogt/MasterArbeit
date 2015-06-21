@@ -33,7 +33,7 @@ Jürg Liechti versteht Essstörungen als multifaktorielle Phänomene. Er
 bezeichnet sie als chamäleonartig, auf die die behandelnden Massnahmen
 abgestimmt sein müssen. Die Behandlung soll individualisiert, fall- und
 phasenspezifisch aufgebaut sein. Er stellt die verschiedenen Bereiche in einem
-Hexagon dar (Liechti 2008):
+Hexagon dar (Liechti 2008). :
 
 Hegaxon der Therapiemassnahmen:
 
@@ -61,6 +61,10 @@ der Therapie.
 
 In der *Phase IV* geht es um die Stabilisierung der Autonomie und um das
 Management der eigenen Lebenssituation.
+
+In seiner Vorlesung benennt zwei zentrale Prinzipien seines Therapieverständnis (2014): in den Familiengesprächen verfolgt er einen allparteilichen Ansatz und gleichzeitig ist seine Patientin die Expertin ihrer Problematik.
+
+Beim Einbezug von nächsten Bezugspersonen gibt es im Bereich von Missbrauchsthemen Grenzen. In dieser Thematik wäre der Schutz der Betroffenen prioritär zu berücksichtigen und darum wäre ein Mehrpersonensetting sehr sorgfältig, zurückhaltend und vorsichtig zu prüfen. 
 
 Verhaltenstherapeutischer Ansatz
 --------------------------------
