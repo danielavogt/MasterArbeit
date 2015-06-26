@@ -32,7 +32,8 @@ reduziert. Dabei vermeiden sie hochkalorische, insbesondere kohlenhydrat- oder
 fettreiche Nahrung.
 
 Manche Patientinnen die an einer Anorexia nervosa erkrankt sind, versuchen ihr
-Gewicht durch Erbrechen oder durch die Einnahme von Appetitzüglern, Abführmitteln oder Entwässerungstabletten zu kontrollieren.
+Gewicht durch Erbrechen oder durch die Einnahme von Appetitzüglern,
+Abführmitteln oder Entwässerungstabletten zu kontrollieren.
 
 Diese Essstörung führt zu einem deutlich abgemagerten Körper. Die
 Patientinnen versuchen, mit übergrosser, kaschierenden Kleidung ihren Körper zu
@@ -95,8 +96,8 @@ werden zwischen 3000 und 4000 Kalorien verschlungen. In der Literatur wird von
 Fressanfällen bis zu 15000 Kalorien berichtet. Die PatinetInnen zügeln ihr
 Essverhalten stark neben den episodischen Essanfällen. Sie essen sehr wenig oder
 auch gar nichts, bis sie ihr Essverhalten nicht mehr kontrollieren können und
-mit Heisshunger in eine Fressattacke hinein geraten. Als intermittierendes
-Fasten wurde dieser Ablauf in der Fachliteratur beschrieben. Oft zeigen
+mit Heisshunger in eine Fressattacke hinein geraten. Dieser Ablauf wird in der
+Fachliteratur als intermittierendes Fasten beschrieben. Oft zeigen
 Patientinnen mit einer Bulimia nervosa Mangelerscheinungen, da sie in den Phasen
 des restriktiven Essens "dickmachende" oder ungesunde Nahrungsmittel meiden,
 werden in den Phasen von ungezügeltem Essen "verbotene" Lebensmittel
@@ -110,7 +111,7 @@ Laxantien- oder Diuretikaabussus. Daneben zeigen auch Patientinnen nach
 Essanfällen Phasen von längeren Fastenperioden oder übetriebene sportliche Betätigung.
 
 Die Patientinnen sind dem Teufelskreis von Essanfällen und Brechen ohnmächtig
-ausgeliefert und schämen sich für ihr Verhalten sehr. Die Folge davon ist, dass
+ausgeliefert und schämen sich sehr für ihr Verhalten. Die Folge davon ist, dass
 sie ihre Problematik verheimlichen und alles dafür tun, damit niemand etwas
 merkt. Dies belastet die Beziehungen der Patientinnen enorm, denn den
 nahestehenden Personen oder MitbewohnerInnen entgeht der fatale Kreislauf meist
@@ -131,8 +132,7 @@ Allerdings halten dies andere Fachpersonen für sekundär.
 **TODO (oben)**: Welche Literatur? Quellen
 
 Im Gegensatz zur Anorexie ist das Gewicht der Bulimikerin meist unauffällig.
-haben die Patientinnen eine Gewichtsobergrenze die sie keinesfalls überschreiten
-dürfen. Zusätzlich haben die Patientinnen den Eindruck, dass sie zu schwer und
+Zusätzlich haben die Patientinnen den Eindruck, dass sie zu schwer und
 dick sind. Deutlich sind auch ihre Befürchtungen übergewichtig zu werden. Die
 Folge des intermittierenden Fastens sind Schwankungen im Gewicht.
 
@@ -140,9 +140,9 @@ Neben den psychopathologischen Symptomen gehen mit der Bulimia nervosa
 ernsthafte somatische Erkrankungen einheer. Verletzungen des Handrückens,
 Entzündungen und Verletzungen der Speiseröhre, Anschwellen der Speicheldrüsen,
 Schädigung des Zahnschmelzes, durch Elektrolytstörungen werden
-Herzrhythmus-Störungen hervorgerufen, Muskellähmungen, Nierenversagen ja sogar
-epileptische Anfälle. Ebenfalls weit verbreitet sind bei bulimischen
-Patientinnen Menstruationszyklusstörungen.
+Herzrhythmus-Störungen hervorgerufen, Muskellähmungen, Nierenversagen bis hin zu
+epileptischen Anfälle. Ebenfalls sind bei bulimischen
+Patientinnen Menstruationszyklusstörungen weit verbreitet.
 
 Binge Eating Disorder/Binge Eating Störung BES
 ----------------------------------------------
@@ -170,9 +170,9 @@ Vierten Version des DSM wurde die Binge Eating Disorder (Bing-Eating-Störung,
 BES) als provisorische, separate diagnostische Kategorie aufgenommen (Spitzer
 et al., 1992; Fairburn et al., 1993; Munsch, Biedert, Schlup, 2011).
 
-Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, 2011, Binge Eating, S. 27/28
+Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, (2011), S. 27/28
 
-  "DSM-IV-TR (APA, 2000)
+  *"DSM-IV-TR (APA, 2000)
 
   A Wiederholte Episoden von Essanfällen. Eine Episode von Essanfällen ist
   durch die beiden folgenden Kriterien charakterisiert:
@@ -202,12 +202,12 @@ Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, 
   E Die Essanfälle gehen nicht mit dem regelmässigen Einsatz von unangemessenen
   kompensatorischen Verhaltensweisen einher (z.B. Purging-Verhalten, Fasten
   oder exzessive körperliche Betätigung) und sie treten nicht ausschliesslich
-  im Verlauf einer Anorexia nervosa oder Bulimia nervosa auf."
+  im Verlauf einer Anorexia nervosa oder Bulimia nervosa auf."*
 
 Ätiologie der Binge Eating Disorder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Munsch, Biedert und Schlup weisen darauf hin, dass zurzeit keine aktuellen
+Munsch, Biedert und Schlup (2011) weisen darauf hin, dass zurzeit keine aktuellen
 Forschungsbefunde bezüglich einer einheitlichen Ätiologie der BES vorliegen
 (Striegel-Moore et al., 2007). Die heutigen Erklärungsversuche basieren auf
 Querschnitts- oder retrospektiven Untersuchungen. Man geht davon aus, dass die
@@ -229,20 +229,31 @@ Tabelle S. 35 Prädisponierende Faktoren übernehmen......
 Adipositas
 ----------
 
-Der Begriff Adipositas definiert Pudel/Wesenhöfer als ein Übermass an
+Den Begriff Adipositas definiert Pudel/Wesenhöfer als ein Übermass an
 Fettgewebe, das zu einer Beeinträchtigung der Gesundheit führt. Übergewicht
 bezieht sich auf das Körpergewicht und bezieht den Anteil Fettgewebe nicht mit
 ein.
 
-Adipositas, ohne Fressanfälle und/oder kompensatorisches Erbrechen, wird von einigen Fachleuten als die häufigste aller Essstörungen bezeichnet. Andere sind wiederum der Meinung, dass Adipositas keine Essstörung ist sondern ein Zustand. Die Entstehung von Adipositas ist noch immer nicht wissenschaftlich erklärt. Über die letzten Jahrzehnte wurde die vereinfachte Meinung, dass alleine die Menge der Nahrungszufuhr für Adipositas verantwortlich ist, falsifiziert und stark differenziert. Nach wie vor werden umfangreiche Studien durchgeführt, um die komplexen Zusammenhänge von Stoffwechsel, Nahrungszufuhr, Nährstoffen und Verbrauch zu entschlüsseln.
-Adipositas kann aus einer ungünstigen Balance von erhöhter oder hochkalorischer
-Nahrungseinnahme im Verhältnis zum Verbrauch resultieren (Energiebilanzprinzip). Die entwickelten Therapien, die einzig auf einem Umkehrschluss (weniger Zufuhr und mehr Bewegung führt zur Gewichtsreduktion) basieren, waren jedoch meist nicht nachhaltig erfolgreich und bewirkten letztendlich eine Gewichtszunahme.
+Adipositas, ohne Fressanfälle und/oder kompensatorisches Erbrechen, wird von
+einigen Fachleuten als die häufigste aller Essstörungen bezeichnet. Andere sind
+wiederum der Meinung, dass Adipositas keine Essstörung ist sondern ein Zustand.
+Die Entstehung von Adipositas ist noch immer nicht wissenschaftlich erklärt.
+Über die letzten Jahrzehnte wurde die vereinfachte Meinung, dass alleine die
+Menge der Nahrungszufuhr für Adipositas verantwortlich ist, falsifiziert und
+stark differenziert. Nach wie vor werden umfangreiche Studien durchgeführt, um
+die komplexen Zusammenhänge von Stoffwechsel, Nahrungszufuhr, Nährstoffen und
+Verbrauch zu entschlüsseln.  Adipositas kann aus einer ungünstigen Balance von
+erhöhter oder hochkalorischer Nahrungseinnahme im Verhältnis zum Verbrauch
+resultieren (Energiebilanzprinzip). Die entwickelten Therapien, die einzig auf
+einem Umkehrschluss (weniger Zufuhr und mehr Bewegung führt zur
+Gewichtsreduktion) basieren, waren jedoch meist nicht nachhaltig erfolgreich
+und bewirkten letztendlich eine Gewichtszunahme.
 
 Neben dem übermässigen, impulsiven oder fortwährendem Essen steht eine
 körperliche Passivität im Fokus des Störungsbildes. Adipositas stellt ein
-Risikofaktor für erhöhte Morbidität dar. Koronare Erkrankungen stehen im Fokus.
+Risikofaktor für erhöhte Morbidität dar. Im Fokus stehen Koronare Erkrankungen.
 
-Die Einteilung nach Schweregraden erfolgt gemäss dem BMI (Reich, Cierpka, 2010, S. 39):
+Die Einteilung nach Schweregraden erfolgt gemäss dem BMI Reich, Cierpka, (2010), S.39:
 
 - Übergewicht: BMI von 25,0 bis 29,9
 - Adipositas Grad I: BMI von 30,0 bis 34,9

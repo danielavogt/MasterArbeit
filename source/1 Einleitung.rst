@@ -24,10 +24,10 @@ Es gibt zwei Merkmale, die ich nicht nachlesen konnte, die ich dennoch hier
 erwähnen möchte. Ich litt mit dem Einsetzen meiner Menarche an Eisenmangel und
 war sehr oft sehr müde. Meine subjektive Wahrnehmung ist, dass ich meine
 Müdigkeit mit einer vermehrten Nahrungsaufnahme zu kompensieren versuchte.
-Gleichzeitig hatte ich den Verdacht, dass mein Körper immer mächtiger wurde im
-Umgang mit Hungersnöten. Jede Diät hatte zur Folge, dass ich immer rascher
-zunahm, ohne wirklich viel mehr zu essen. Schon von klein auf war ich mit
-meinem zusätzlichen Gewicht tendenziell ein Bewegungsmuffel. Leider bot mir
+Gleichzeitig hatte ich den Verdacht, dass mein Körper im Umgang mit
+Hungersnöten immer mächtiger wurde. Jede Diät hatte zur Folge, dass ich immer
+rascher zunahm, ohne wirklich viel mehr zu essen. Schon von klein auf war ich
+mit meinem zusätzlichen Gewicht tendenziell ein Bewegungsmuffel. Leider bot mir
 mein Umfeld auch keine Motivationsunterstützung -- im Gegenteil. Oft wurde ich
 gehänselt oder beleidigt, wenn ich nicht so schnell konnte wie andere.
 
