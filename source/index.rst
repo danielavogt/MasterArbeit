@@ -17,22 +17,15 @@ Contents:
    1 Einleitung
    2 Zielsetzung
    3 Definition Essstoerungen
-   7 Abgrenzung
+   4 Abgrenzung
    8 Komorbidität
-   9 Behandlungskonzepte
-      Therapieschwerpunkte
-   10 Stationaere Behandlung in der Klinik Wysshölzli
-      Kontrolliertes Essprogramm
-   11 Fallbeispiel
-   12 Diskussion zum Fallbeispiel
-   13 Schlussfolgerungen
-   14 Persönliches Fazit
+   5 Behandlungskonzepte
+   6 Stationaere Behandlung
+   7 Therapieschwerpunkte
+   8 Fallbeispiel
+   9 Diskussion zum Fallbeispiel
+   10 Schlussfolgerungen
+   11 Fazit
+   12 Quelle
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
