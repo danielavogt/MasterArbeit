@@ -19,7 +19,7 @@ Der Eintritt in ein stationäres Setting entlastete Frau König enorm. Sie konnt
 
 Frau König setzte sich ebenfalls mit ihrem Beziehungsmuster auseinander. Im Laufe der Therapie realisierte sie, dass die aktuelle Beziehung eine Belastung in ihrem Veränderungsprozess darstellt. Sie erkannte, was sie an der Beziehung schätzt und von was sie sich zukünftig distanzieren will. An den Wochenenden gelang es dem Paar, sich über ihre Zukunft Gedanken zu machen. Daraus folgt der  Schluss sich zu trennen. Dieser Schritt war für Frau König sowohl entlastend und als auch beängstigend. Mit der faktischen Trennung realisierte sie, von wieviel Gutem sie sich verabschieden muss. Die verschiedenen Therapiegefässe erlaubten Frau König sich intensiv mit ihrer Traurer auseinander zu setzen.
 
-Eine zusätzliche Massnahme war die Abklärung, ob Frau König unter einer Lese- und Rechtsschreibschwäche leidet und ob Anhaltspunkte für ein ADS vorliegen. Die erste Testung zeigte, dass Frau König eine Lese- und Rechtsschreibschwäche hat. Ein ADS konnte nicht diagnostiziert werden, da nicht genügend Daten vorhanden waren. Es ist anzunehmen, dass Frau König ein allfälliges Aufmerksamkeitsdefizit längst kompensiert hat. Das Resultat kann für Frau König im Hinblick auf eine neue Berufswahl sein wichtig sein.
+Eine zusätzliche Massnahme war die Abklärung, ob Frau König unter einer Lese- und Rechtsschreibschwäche leidet und ob Anhaltspunkte für ein ADS vorliegen. Die erste Testung zeigte, dass Frau König eine Lese- und Rechtsschreibschwäche hat. Ein ADS konnte nicht diagnostiziert werden, da nicht genügend Daten vorhanden waren. Es ist anzunehmen, dass Frau König ein allfälliges Aufmerksamkeitsdefizit längst kompensiert hat. Das Resultat kann für Frau König im Hinblick auf eine neue Berufswahl  wichtig sein.
 
 Der grösste Erfolg der Therapie war die Normalisierung ihres Essverhaltens. Sie erkannte die negativen Auslöser von restriktivem Essen, konnte die Achtsamkeit sich selber gegenüber stärken und ist sich der Risikosituationen besser bewusst und kann auf diese schneller reagieren. Durch die normale, gesunde Ernährung konnte Frau König 10.5 kg abnehmen. Gleichzeitig begann sie sich regelmässig zu bewegen. Die Abstinenz von Essanfällen während 18 Wochen ist für sich allein genommen bereits ein grosser Erfolg.
 
@@ -35,7 +35,7 @@ Was ist nicht gelungen?
 Der systemische Therapieansatz konnte nur sehr rudimentär angewendet werden. Mit dem Einbezug der nächsten Bezugspersonen hätte Frau König ihre Muster, ihre Prägung und ihre Beziehungen noch bewusster erkennen können. Zusätzlich wäre es möglich gewesen, unterstützende Ressourcen bei ihrer Familie zu aktivieren. Wahrscheinlich hätten auch unausgesprochene, unterschwellige Konflikte herausgearbeitet werden können. Ihre traumatischen Erlebnisse konnten mangels Stabilität und Zeit nicht angegangen werden.
 
 Bewertung der Therapie des Fallbeispiels
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Der Ausstiegsprozess aus einer Suchtproblematik braucht Zeit. Dessen war sich Frau König bewusst. Ihr Aufenthalt beschränkte sich auf 18 Wochen. In dieser Zeit konnte sie in Bezug auf ihre Selbstregulation profitieren. Sie ging mit vielen neu gelernten und geübten Fertigkeiten für ihre Emotionsregulation und ihrer Stresstoleranz zurück in ihren Alltag. Zusätzlich konnte sie viele Erkenntnisse zu sich, zu ihrer Prägung und zu ihren Mustern mitnehmen. Ganz wichtig war für sie auch die Wertschätzung ihrer Ressourcen.
 
