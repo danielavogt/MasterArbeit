@@ -81,30 +81,29 @@ leiden stark an ihren Essanfällen.
 Adipositas
 ----------
 
-In Reich und Cierpka, 2010, beschreiben Hippel und Reich das Störungsbild der
+Hippel und Reich (2010) beschreiben das Störungsbild der
 Adipositas aus ihrer psychodynamischen Sicht als Lösungsversuch für als
 unlösbar erlebte Konflikte. Sie verfolgen einen psychodynamischen und
 familienorientierten Ansatz. Folgende intrapersonelle Grundkonflikte stehen im
 Fokus:
 
 Grundsätzlich gilt es die Funktion des Essens zu erkennen: Zuviel Essen als
-Versuch der Affektregulierung und Bewältigung von Konflikten (Hippel und Reich
-in Reich und Cierpka, 2010, S. 237/38):
+Versuch der Affektregulierung und Bewältigung von Konflikten (Hippel und Reich, 2010, S. 237/38):
 
-- "Passiv-rezeptive Versorgungs- und Verschmelzungswünsche versus Angst vor Enttäuschung und Zurückweisung.
-- Selbstbehauptung versus Ich-Einschränkung.
-- Konflikte um Über-Ich und Ich-Idealforderungen.
-- Konflikte um den Ausdruck von Aggression."
+- *Passiv-rezeptive Versorgungs- und Verschmelzungswünsche versus Angst vor Enttäuschung und Zurückweisung.*
+- *Selbstbehauptung versus Ich-Einschränkung.*
+- *Konflikte um Über-Ich und Ich-Idealforderungen.*
+- *Konflikte um den Ausdruck von Aggression.*
 
 Als weitere Dimension greifen Hippel und Reich die interpersonellen Konflikte auf. Sie beschreiben die Beziehungsmuster bei Adipositas wie folgt:
 
-- "Überfürsorglichkeit.
-- Vermeidung von Konflikten und Dämpfen von Affekten.
-- Grenzenstörungen.
-- Delegationskonflikte.
-- Selbstabgrenzung, Selbstversorgung und Selbstbehauptung."
+- *Überfürsorglichkeit.*
+- *Vermeidung von Konflikten und Dämpfen von Affekten.*
+- *Grenzenstörungen.*
+- *Delegationskonflikte.*
+- *Selbstabgrenzung, Selbstversorgung und Selbstbehauptung.*
 
 Auf der Paarebene benennen sie zwei zentrale Themen:
 
-- "Konflikte um orale Versorgung und Sicherheit.
-- Konflikte um Wertschätzung versus Entwertung und Beschämung."
+- *Konflikte um orale Versorgung und Sicherheit.*
+- *Konflikte um Wertschätzung versus Entwertung und Beschämung.*
