@@ -25,7 +25,25 @@ ambulantes Setting ist schwierig realisierbar. Insofern ist es nachvollziehbar,
 dass ausgewiesene Fachleute wie Dr. Jürg Liechti vom ZSB Bern auf eine
 Verbesserung der Behandlungskette hinsteuern.
 
-In der Klinik Wysshölzli basiert die Therapie auf einem Behandlungskonzept für Anorexie, Bulimie und Binge Eating. Zentral ist für alle Störungen das kontrollierte Essprogramm, welches anschliessend genauer beschrieben wird. Daneben werden die Patientinnen mit Essstörungen regelmässig gewogen. Dies wird je nach Störung von zweimal wöchentlich bis zu täglich durchgeführt. Alle Patientinnen mit einer Essstörung haben einen wöchentlichen Stichtag an dem die Entwicklung des Gewichtes abgelesen und verfolgt wird. Bei Anorexie gilt ein Gewichtsstillstand und eine Gewichtsabnahme als Rückfall. Bei Binge Eating gilt analog dieses Konzeptes ein Gewichtsstillstand oder eine -zunahme als Rückfall. Bei Bulimikerinnen gelten Ess- und Brechanfälle als Rückfall. Auf Rückfälle wird mit einer Sperrung von 72 Stunden, mit einer Selbstreflexion und mit einer individuell angepassten Wochenendplanung reagiert. Alle Patientinnen bleiben während den 72 Stunden auf dem Areal. Anorektikerinnen schränken damit ihre Bewegung ein, Bulimikerinnen können nicht mehr ins Dorf um Nahrungsmittel zu kaufen, Binge Eaterinnen sind aufgefordert, sich täglich eine Stunde intensiv zu bewegen. Binge Eaterinnen können Nordic walking betreiben oder Schwimmen gehen. Zudem gibt es im Dorf ein Fitnesscenter, das speziell zugeschnittenes Krafttraining anbietet. Bei einem Rückfall jedoch ist auch eine Binge Eaterin angehalten, während 72 Stunden nicht ins Dorf zu gehen.
+In der Klinik Wysshölzli basiert die Therapie auf einem Behandlungskonzept für
+Anorexie, Bulimie und Binge Eating. Zentral ist für alle Störungen das
+kontrollierte Essprogramm, welches anschliessend genauer beschrieben wird.
+Daneben werden die Patientinnen mit Essstörungen regelmässig gewogen. Dies wird
+je nach Störung von zweimal wöchentlich bis zu täglich durchgeführt. Alle
+Patientinnen mit einer Essstörung haben einen wöchentlichen Stichtag an dem die
+Entwicklung des Gewichtes abgelesen und verfolgt wird. Bei Anorexie gilt ein
+Gewichtsstillstand und eine Gewichtsabnahme als Rückfall. Bei Binge Eating gilt
+analog dieses Konzeptes ein Gewichtsstillstand oder eine -zunahme als Rückfall.
+Bei Bulimikerinnen gelten Ess- und Brechanfälle als Rückfall. Auf Rückfälle
+wird mit einer Sperrung von 72 Stunden, mit einer Selbstreflexion und mit einer
+individuell angepassten Wochenendplanung reagiert. Alle Patientinnen bleiben
+während den 72 Stunden auf dem Areal. Anorektikerinnen schränken damit ihre
+Bewegung ein, Bulimikerinnen können nicht mehr ins Dorf um Nahrungsmittel zu
+kaufen, Binge Eaterinnen sind aufgefordert, sich täglich eine Stunde intensiv
+zu bewegen. Binge Eaterinnen können Nordic walking betreiben oder Schwimmen
+gehen. Zudem gibt es im Dorf ein Fitnesscenter, das speziell zugeschnittenes
+Krafttraining anbietet. Bei einem Rückfall jedoch ist auch eine Binge Eaterin
+angehalten, während 72 Stunden nicht ins Dorf zu gehen.
 
 ==========================
 Kontrolliertes Essprogramm
@@ -45,9 +63,14 @@ Zwischenmahlzeiten zu sich, die jeweils 300 Kalorien beinhalten. Die Mahlzeiten
 werden von Pflegefachfrauen oder von Ernährungsberaterinnen begleitet und
 zeitlich begrenzt. Es wird ein Protokoll erstellt, auf das in der
 Psychotherapie eingegangen wird. Die Mahlzeiten finden im Speisesaal statt. Es
-gibt eine Sitzordnung, die wöchentlich umgestellt wird. Patientinnen
-werden nicht nach ihren Störungsbilder separiert, sondern absichtlich
-durchmischt. Allerdings ist ein Tisch reserviert für neue Patientinnen, die alle Mahlzeiten gerichtet und kontrolliert einnehmen. Wenn sich Patientinnen während den Mahlzeiten auffällig verhalten (im Essen herumstochern, die Speisen in 1000 kleine Teile schneiden, Essen verschwinden lassen, auf andere Teller abschätzend starren, die Speisen herunterschlingen etc.) werden sie auf ihr destruktives Verhalten aufmerksam gemacht.
+gibt eine Sitzordnung, die wöchentlich umgestellt wird. Patientinnen werden
+nicht nach ihren Störungsbilder separiert, sondern absichtlich durchmischt.
+Allerdings ist ein Tisch reserviert für neue Patientinnen, die alle Mahlzeiten
+gerichtet und kontrolliert einnehmen. Wenn sich Patientinnen während den
+Mahlzeiten auffällig verhalten (im Essen herumstochern, die Speisen in 1000
+kleine Teile schneiden, Essen verschwinden lassen, auf andere Teller
+abschätzend starren, die Speisen herunterschlingen etc.) werden sie auf ihr
+destruktives Verhalten aufmerksam gemacht.
 
 Bei den Patientinnen mit Bulimia nervosa wird darauf geachtet, welche
 Nahrungsmittel sinnvoll sind und das Brechen nicht begünstigen. Der Einstieg in
