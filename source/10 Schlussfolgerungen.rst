@@ -133,9 +133,9 @@ Baumgartner, Häfele, Schwarz und Sohm. (1998, S.40) sagen:
   verändern sich ständig, selbstverständlich, leicht und reaktiv; aber
   Veränderungen innerhalb von Organisationen können nicht einfach angeordnet und
   kontrolliert werden. Organisationen tun in der Regel nicht, was von ihnen
-  erwartet wird.
+  erwartet wird.*
 
-  Anstatt Kontroll- und Planungssysteme immer mehr zu verfeinern, muss das
+  *Anstatt Kontroll- und Planungssysteme immer mehr zu verfeinern, muss das
   Augenmerk darauf liegen, günstige Bedingungen für die Selbstentwicklung einer
   Organisation zu bieten - es geht mehr darum, einem System einen
   entwicklungsfördernden Rahmen zu bieten als auf es einzuwirken."*
