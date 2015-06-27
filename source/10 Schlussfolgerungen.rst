@@ -121,26 +121,27 @@ in dieser Phase des Aufbruchs (von bestehenden Mustern) und der Neuorganisation
 gezielt Ressourcen anspricht oder neue Perspektiven eröffnet, können
 Veränderungsprozesse oder Entwicklungsanreize angestossen werden.
 
-In meiner Literatur aus der Organisationsentwicklung habe ich Parallelen zur systemischen Psychotherapie gefunden:
+In der Organisationsentwicklung habe ich Parallelen zur systemischen Psychotherapie gefunden.
 Folgendes Zitat zeigt, dass sich die Organisation derselben Prinzipien wie die systemische Psychotherapie bedient.  
-Irene Baumgartner et al. (1998), OE-Prozesse - Die Prinzipien systemischer
-Organisationsentwicklung: *"Wir haben auf dieses Merkmal der Selbstorganisation
-bereits bei der Zielbeschreibung von OE verwiesen, wonach Organisationen als
-soziale Systeme unter dem Druck der Verhältnisse Ordnung spontan generieren.
-Konsequenz dieser Sicht ist eine viel grössere Bescheidenheit in bezug auf
-Machbarkeit, sowohl als Führungskraft als auch als Berater: Organisationen
-verändern sich ständig, selbstverständlich, leicht und reaktiv; aber
-Veränderungen innerhalb von Organisationen können nicht einfach angeordnet und
-kontrolliert werden. Organisationen tun in der Regel nicht, was von ihnen
-erwartet wird.
+Baumgartner et al. (1998) sagen: 
 
-Anstatt Kontroll- und Planungssysteme immer mehr zu verfeinern, muss das
-Augenmerk darauf liegen, günstige Bedingungen für die Selbstentwicklung einer
-Organisation zu bieten - es geht mehr darum, einem System einen
-entwicklungsfördernden Rahmen zu bieten als auf es einzuwirken."*
+  *"Wir haben auf dieses Merkmal der Selbstorganisation
+  bereits bei der Zielbeschreibung von OE verwiesen, wonach Organisationen als
+  soziale Systeme unter dem Druck der Verhältnisse Ordnung spontan generieren.
+  Konsequenz dieser Sicht ist eine viel grössere Bescheidenheit in bezug auf
+  Machbarkeit, sowohl als Führungskraft als auch als Berater: Organisationen
+  verändern sich ständig, selbstverständlich, leicht und reaktiv; aber
+  Veränderungen innerhalb von Organisationen können nicht einfach angeordnet und
+  kontrolliert werden. Organisationen tun in der Regel nicht, was von ihnen
+  erwartet wird.
 
-Dieses Bewusstsein, diese Haltung kann 1 zu 1 auf die systemische
-Psychotherapie übertragen werden.
+  Anstatt Kontroll- und Planungssysteme immer mehr zu verfeinern, muss das
+  Augenmerk darauf liegen, günstige Bedingungen für die Selbstentwicklung einer
+  Organisation zu bieten - es geht mehr darum, einem System einen
+  entwicklungsfördernden Rahmen zu bieten als auf es einzuwirken."*
+
+Dieses Bewusstsein und diese Haltung lässt sich 1 zu 1 auf die systemische
+Psychotherapie übertragen.
 
 Verhaltenstherapie
 ^^^^^^^^^^^^^^^^^^

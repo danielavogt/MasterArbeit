@@ -1,6 +1,8 @@
 Quellenverzeichnis
 ^^^^^^^^^^^^^^^^^^
 
+Baumgartner I. (1998), *OE-Prozesse - Die Prinzipien systemischer Organisationsentwicklung*, .
+
 Fairburn, Bohn, (2005), **,
 
 Hauser R. (2015), Persönliches Interview der Autorin, Bariatrischer Chirurg, Konsulararzt Spital Lachen.
