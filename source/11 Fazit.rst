@@ -32,7 +32,7 @@ Psychotherapie sind. In meiner ersten Ausbildung zur Organisationspsychologin
 sind mir die grundlegenden Prinzipien bereits begegnet. Für meine weitere
 Tätigkeit als systemische Psychotherapeutin werde ich meine Literatur aus der
 Organisationspsychologie erneut hervornehmen und mich damit nochmals aus einer
-anderen Perspektive auseinander setzen.
+anderen Perspektive auseinander setzen. In einer weiteren Arbeit könnte genauer untersucht werden, wieweit sich die beiden Ansätze ergänzen, wo sich Überschneidungen ergeben und wie sich Prinzipien auf die unterschiedlichen Arbeitsfelder übertragen lassen. Letztendlich wäre es interessant, wieweit sich die systemische Organisationsentwicklung und die systemische Psychotherapie gegenseitig befruchten könnten. 
 
 Mit dieser Masterarbeit habe ich meine Berufsidentität entscheidend
 weiterentwickelt. Ich danke meinem Mann, dass er mit seinem wohlwollend
