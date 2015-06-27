@@ -8,7 +8,7 @@ Tischsituation verbunden. Sich ernähren ist eines unserer grundlegensten
 Bedürfnisse. Die Nahrungsaufnahme ist durch ihre komplexe Verbundenheit mit
 Gefühlen, sozialen Bedürfnissen, Beziehungen, Selbstfürsorge leicht
 störungsanfällig. Insbesondere durch eine restriktive Kontrolle reagieren
-Menschen mit verändertem Essverhalten. Nach Pudel/Westenhöfer (2003) scheint
+Menschen mit verändertem Essverhalten. Nach Pudel & Westenhöfer (2003) scheint
 eine Beziehung zwischen rigider und flexibler Kontrolle sowie der Störbarkeit
 des Essverhaltens nachgewiesen zu sein. Rigide Kontrolle kann zu *Anorexia* und
 *Bulimia nervosa* führen. Aber auch flexible (teilzeitige) Kontrolle kann zu
@@ -16,14 +16,14 @@ einer Störung des Essverhaltens beitragen, allerdings in geringerem Masse.
 
 Bei der Behandlung von Adipositas mittels Gewichtsreduktionsprogrammen zeigte
 sich, dass diese sich als kontraindiziert und schädlich auswirken können.
-Pudel/Westenhöfer (2003), S. 216: *"Die Misserfolgsbilanzen der
+Pudel & Westenhöfer (2003), S. 216: *"Die Misserfolgsbilanzen der
 Adipositastherapie bezeugen die mögliche Wirksamkeit solcher Mechanismen
 jedenfalls nachdrücklich"*.
 
 Anorexia nervosa ICD-10 F50.0
 -----------------------------
 
-Das zentrale Mermal einer *Anorexia nervosa* ist laut Pudel/Westenhöfer (2003) die
+Das zentrale Mermal einer *Anorexia nervosa* ist laut Pudel & Westenhöfer (2003) die
 Weigerung der Patientinnen eine genügende Nahrungsmenge zu sich zu nehmen. Diese
 Essstörung zeichnet sich durch ein rigid gezügeltes Essen aus. Die
 Kalorienzufuhr wird sehr gering gehalten. Es werden Mahlzeiten ausgelassen oder

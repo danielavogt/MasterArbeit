@@ -2,11 +2,11 @@
 Therapieschwerpunkte
 ====================
 
-*Anorexia nervosa*
+Anorexia nervosa
 ----------------
 
 Die Mortalitätsrate bei einer unbehandelten Anorexie liegt heute zwischen 5 bis
-20 %. Insofern geht es zu Beginn der Therapie selbstverständlich um eine
+20%. Insofern geht es zu Beginn der Therapie selbstverständlich um eine
 Gewichtszunahme. Letztendlich ist dies eine lebensrettende Massnahme. Bei
 starkem Untergewicht ist eine Gewichtszunahme eine Voraussetzung dafür, dass
 eine Psychotherapie wirksam und nachhaltig sein kann. Als Psychotherapeutin
@@ -33,7 +33,7 @@ Körpergefühl überhaupt nicht zurecht. Sobald das Gewicht sich einem BMI von
 
 (Reich, Cierpka, 2010, S. 32)
 
-*Bulimia nervosa*
+Bulimia nervosa
 ---------------
 
 Bei der Bulimie ist die intensive Beschäftigung über Stunden am Tag mit der
