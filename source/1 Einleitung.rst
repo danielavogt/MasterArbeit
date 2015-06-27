@@ -43,9 +43,7 @@ wage ich die These, dass die Arbeit mit Menschen, die an einer Essstörung oder
 an Adipositas leiden, einzig mit einem geschickten Einsatz von systemischen und
 verhaltenstherapeutischen Ansätzen erfolgreich sein kann.
 
-Beruflich arbeite ich in der Klinik Wysshölzli in
-Herzogenbuchsee. Die Klinik bietet Behandlungen für Frauen mit
-Abhängigkeitserkrankungen und Essstörungen an. Meine Arbeit ist für mich eine
+Beruflich arbeite ich in der Klinik Wysshölzli in Herzogenbuchsee. Die Klinik bietet Behandlungen für Frauen mit Abhängigkeitserkrankungen und Essstörungen an. Diese Arbeit ist für mich eine
 tolle Chance, mich intensiv mit Essstörungen auseinander zu setzen und für
 meinen Alltag zu lernen. Die therapeutische Begleitung von Patientinnen mit
 Essstörungen erlebe ich tagtäglich als enorme Herausforderung. Insbesondere die
@@ -55,12 +53,14 @@ Fachleute.
 
 In dieser Arbeit setze ich mich mit Essstörungen und Adipositas auseinander und
 versuche die verschiedenen Merkmale und deren therapeutischen Ziele
-herauszuarbeiten. Für die Essstörung Binge Eating Disorder (BED oder BES)
+herauszuarbeiten. Für die Essstörung Binge Eating Disorder (BED oder BES, in der Arbeit BES-Binge Eating Störung genannt)
 versuche ich die bestehenden verhaltenstherapeutischen Behandlungskonzepte mit
 der systemischen Komponente, die ich aus einem systemischen Behandlungskonzept
 für Anorexia nervosa ableite, zu ergänzen und anhand eines Fallbeispiels
 anzuwenden. In meinem psychotherapeutischen Alltag begleite ich eine Patientin
-mit einer Binge Eating Disorder BED. Meine Erfahrungen fliessen ein und
+mit einer BES. Meine Erfahrungen fliessen ein und
 ergänzen meine theoretischen Erkenntnisse. Zum Schluss versuche ich den Nutzen
 eines flexiblen Einsatzes verhaltenstherapeutischer und systemischer Ansätze
 herauszuarbeiten.
+
+Zugunsten der Lesbarkeit wird nur die weibliche Form benützt. Selbstverständlich sind dabei die Männer mitgemeint.

@@ -45,9 +45,9 @@ gehen. Zudem gibt es im Dorf ein Fitnesscenter, das speziell zugeschnittenes
 Krafttraining anbietet. Bei einem Rückfall jedoch ist auch eine Binge Eaterin
 angehalten, während 72 Stunden nicht ins Dorf zu gehen.
 
-==========================
+
 Kontrolliertes Essprogramm
-==========================
+--------------------------
 
 Um eine Normalisierung des Essverhaltens zu erlangen, bieten stationäre
 Behandlungen stark strukturierte Mahlzeiten an. In der Klinik Wysshölzli in
