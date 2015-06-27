@@ -9,7 +9,7 @@ Systemisches Behandlungskonzept
 -------------------------------
 
 In Liechti und Liechti-Darbellay (2011) wird ein schulenübergreifende und dennoch systemisch
-orientierte Behandlung von Anorexia nervosa vorgestellt. Jürg und Monique
+orientierte Behandlung von *Anorexia nervosa* vorgestellt. Jürg und Monique
 Liechti-Darbellay haben in Bern ein Institut aufgebaut, das sich auf die
 Behandlung von Menschen mit einer Essstörung spezialisiert hat. Insbesondere im
 Bereich der Anorexietherapie geniesst Jürg Liechti einen Ruf als ausgewiesener

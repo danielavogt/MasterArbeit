@@ -2,7 +2,7 @@
 Therapieschwerpunkte
 ====================
 
-Anorexia nervosa
+*Anorexia nervosa*
 ----------------
 
 Die Mortalitätsrate bei einer unbehandelten Anorexie liegt heute zwischen 5 bis
@@ -33,7 +33,7 @@ Körpergefühl überhaupt nicht zurecht. Sobald das Gewicht sich einem BMI von
 
 (Reich, Cierpka, 2010, S. 32)
 
-Bulimia nervosa
+*Bulimia nervosa*
 ---------------
 
 Bei der Bulimie ist die intensive Beschäftigung über Stunden am Tag mit der

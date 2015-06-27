@@ -10,8 +10,8 @@ Gefühlen, sozialen Bedürfnissen, Beziehungen, Selbstfürsorge leicht
 störungsanfällig. Insbesondere durch eine restriktive Kontrolle reagieren
 Menschen mit verändertem Essverhalten. Nach Pudel/Westenhöfer (2003) scheint
 eine Beziehung zwischen rigider und flexibler Kontrolle sowie der Störbarkeit
-des Essverhaltens nachgewiesen zu sein. Rigide Kontrolle kann zu Anorexia und
-Bulimia nervosa führen. Aber auch flexible (teilzeitige) Kontrolle kann zu
+des Essverhaltens nachgewiesen zu sein. Rigide Kontrolle kann zu *Anorexia* und
+*Bulimia nervosa* führen. Aber auch flexible (teilzeitige) Kontrolle kann zu
 einer Störung des Essverhaltens beitragen, allerdings in geringerem Masse.
 
 Bei der Behandlung von Adipositas mittels Gewichtsreduktionsprogrammen zeigte
@@ -23,7 +23,7 @@ jedenfalls nachdrücklich"*.
 Anorexia nervosa ICD-10 F50.0
 -----------------------------
 
-Das zentrale Mermal einer Anorexia nervosa ist laut Pudel/Westenhöfer (2003) die
+Das zentrale Mermal einer *Anorexia nervosa* ist laut Pudel/Westenhöfer (2003) die
 Weigerung der Patientinnen eine genügende Nahrungsmenge zu sich zu nehmen. Diese
 Essstörung zeichnet sich durch ein rigid gezügeltes Essen aus. Die
 Kalorienzufuhr wird sehr gering gehalten. Es werden Mahlzeiten ausgelassen oder
@@ -31,7 +31,7 @@ auf geringe Menge von, für die Patientinnen vermeintlich, "gesunden" Lebensmitt
 reduziert. Dabei vermeiden sie hochkalorische, insbesondere kohlenhydrat- oder
 fettreiche Nahrung.
 
-Manche Patientinnen die an einer Anorexia nervosa erkrankt sind, versuchen ihr
+Manche Patientinnen die an einer *Anorexia nervosa* erkrankt sind, versuchen ihr
 Gewicht durch Erbrechen oder durch die Einnahme von Appetitzüglern,
 Abführmitteln oder Entwässerungstabletten zu kontrollieren.
 
@@ -42,7 +42,7 @@ verbergen.
 Obwohl die Betroffenen ein offensichtliches Untergewicht haben, empfinden sie
 sich als zu dick oder fett (Körperschemastörung). Beim Essen kämpfen sie laufend
 mit ihrer irrealen Angst übergewichtig zu werden. Diese Furcht ist ein zentrales
-psychopathologisches Merkmal der Anorexia nervosa.
+psychopathologisches Merkmal der *Anorexia nervosa*.
 
 Die Patientinnen befinden sich oft in einem lebensbedrohlichen körperlichen
 Zustand und dennoch verfügen sie kaum über ein Krankheitsbewusstsein. Sie lehnen
@@ -58,7 +58,7 @@ Die Verhaltensauffälligkeiten wie Bewegungsdrang, Ruhelosigkeit, Aengstlichkeit
 und rigide Kontrolle werden von einschneidenden somatischen Auswirkungen
 begleitet.
 
-Die Essstörung Anorexia nervosa lässt sich mit zwei Typisierungen beschreiben:
+Die Essstörung *Anorexia nervosa* lässt sich mit zwei Typisierungen beschreiben:
 
 Restriktiver Typ
   Rigide Essenskontrolle ohne regelmässige Essanfälle und ohne regelmässiges
@@ -86,7 +86,7 @@ Krankheitsbildern. Vergleichbar ist dieses Phänomen mit einer Suchtverlagerung.
 Bulimia nervosa
 ---------------
 
-Pudel/Westenhöfer (2003) beschreiben die Essstörung Bulimia nervosa als häufige
+Pudel & Westenhöfer (2003) beschreiben die Essstörung *Bulimia nervosa* als häufige
 Essepisoden, die als Essanfall, Fressanfall oder Heisshungerattacke bezeichnet
 werden. Dabei verschlingen die Patientinnen meistens sehr rasch grössere
 Nahrungsmengen. Diese Attacken ereignen sich von einmal wöchentlich bis zu
@@ -98,7 +98,7 @@ Essverhalten stark neben den episodischen Essanfällen. Sie essen sehr wenig ode
 auch gar nichts, bis sie ihr Essverhalten nicht mehr kontrollieren können und
 mit Heisshunger in eine Fressattacke hinein geraten. Dieser Ablauf wird in der
 Fachliteratur als intermittierendes Fasten beschrieben. Oft zeigen
-Patientinnen mit einer Bulimia nervosa Mangelerscheinungen, da sie in den Phasen
+Patientinnen mit einer *Bulimia nervosa* Mangelerscheinungen, da sie in den Phasen
 des restriktiven Essens "dickmachende" oder ungesunde Nahrungsmittel meiden,
 werden in den Phasen von ungezügeltem Essen "verbotene" Lebensmittel
 kompensatorisch verzehrt.
@@ -118,15 +118,15 @@ nahestehenden Personen oder MitbewohnerInnen entgeht der fatale Kreislauf meist
 nicht. Einige Patientinnen begehen auch Diebstähle oder werfen sich in grosse
 Schulden, um sich die grossen Mengen von Lebensmittel zu beschaffen.
 
-Psychopathologisch zeigen die Patientinnen mit Bulimia nervosa diesselben
-Aengste vor Gewichtszunahme und Dicksein wie Patientinnen mit Anorexia nervosa.
+Psychopathologisch zeigen die Patientinnen mit *Bulimia nervosa* diesselben
+Aengste vor Gewichtszunahme und Dicksein wie Patientinnen mit *Anorexia nervosa*.
 Gewicht und Aussehen sind für die Patientinnen ganz eng mit ihrem
 Selbstwertgefühl und ihrer Selbstsicherheit verknüpft. Dies kann einen
 aufrechterhaltenden Faktor darstellen. Zusätzlich leiden die Patientinnen häufig
 an Depressionen, starken Stimmungsschwankungen, Gefühlen von Wert- und
 Sinnlosigkeit, Schuldgefühlen, Suizidgedanken. Häufig werden auch Major
 Affective Disorder diagnostiziert. In der Literatur wird diskutiert, ob
-Bulimia und Anorexia nervosa eine Variante affektiver Störungen darstellen.
+Bulimia und *Anorexia nervosa* eine Variante affektiver Störungen darstellen.
 Allerdings halten dies andere Fachpersonen für sekundär.
 
 **TODO (oben)**: Welche Literatur? Quellen
@@ -136,7 +136,7 @@ Zusätzlich haben die Patientinnen den Eindruck, dass sie zu schwer und
 dick sind. Deutlich sind auch ihre Befürchtungen übergewichtig zu werden. Die
 Folge des intermittierenden Fastens sind Schwankungen im Gewicht.
 
-Neben den psychopathologischen Symptomen gehen mit der Bulimia nervosa
+Neben den psychopathologischen Symptomen gehen mit der *Bulimia nervosa*
 ernsthafte somatische Erkrankungen einheer. Verletzungen des Handrückens,
 Entzündungen und Verletzungen der Speiseröhre, Anschwellen der Speicheldrüsen,
 Schädigung des Zahnschmelzes, durch Elektrolytstörungen werden
@@ -156,12 +156,12 @@ Zusammenhang mit einer Adipositas steht fusst.
 
 **TODO (oben/unten)**: Quelle?
 
-Nach Pudel/Westenhöfer (2003) kann die Essstörung BES mit der Bulimia nervosa
+Nach Pudel & Westenhöfer (2003) kann die Essstörung BES mit der *Bulimia nervosa*
 verglichen werden. Allerdings fallen die charakteristischen
 Kompensationsverhalten weg. Durch die häufigen hochkalorischen Nahrungsaufnahmen
 steigt das Risiko von Übergewicht. Studien besagen, dass bei BES-Patientinnen
 der Anteil von Patientinnen mit höherem Body Mass Index steigt. Weitere
-Untersuchungen haben gezeigt, dass sich unter den Übergewichtigen etwa 10 %
+Untersuchungen haben gezeigt, dass sich unter den Übergewichtigen etwa 10%
 BES-Patientinnen befinden. Folglich dürften sich unter den Teilnehmerinnen von
 Gewichtsreduktionsprogrammen überproportional mehr BES-Patientinnen befinden.
 Häufig ist BES mit weiteren psychischen Störungen verbunden. Depressionen,
@@ -172,34 +172,34 @@ et al., 1992; Fairburn et al., 1993; Munsch, Biedert, Schlup, 2011).
 
 Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, (2011), S. 27/28
 
-  *"DSM-IV-TR (APA, 2000)
+  *"DSM-IV-TR (APA, 2000)*
 
-  A Wiederholte Episoden von Essanfällen. Eine Episode von Essanfällen ist
-  durch die beiden folgenden Kriterien charakterisiert:
+  *A Wiederholte Episoden von Essanfällen. Eine Episode von Essanfällen ist
+  durch die beiden folgenden Kriterien charakterisiert:*
 
-  1 Essen einer Nahrungsmenge in einem abgrenzbaren Zeitraum (z.B. in zwei
+  *1 Essen einer Nahrungsmenge in einem abgrenzbaren Zeitraum (z.B. in zwei
   Stunden), die definitiv grösser ist, als die meisten menschen in einem
-  ähnlichen Zeitraum unter ähnlichen Umständen essen würden.
+  ähnlichen Zeitraum unter ähnlichen Umständen essen würden.*
 
-  2 Ein Gefühl des Kontrollverlustes über das Essen während der Episode (z.B.
+  *2 Ein Gefühl des Kontrollverlustes über das Essen während der Episode (z.B.
   das Gefühl, dass man mit dem Essen nicht aufhören kann bzw. nicht
-  kontrollieren kann, was und wie viel man isst).
+  kontrollieren kann, was und wie viel man isst).*
 
-  B Die Episoden von Essanfällen treten gemeinsam mit mindestens drei der
-  folgenden Symptome auf:
+  *B Die Episoden von Essanfällen treten gemeinsam mit mindestens drei der
+  folgenden Symptome auf:*
 
-  (1) Wesentlich schneller essen als normal
-  (2) Essen bis zu einem unangenehmen Völlegefühl
-  (3) Essen grosser Nahrungsmengen, wenn man sich körperlich nicht hungrig fühlt
-  (4) Alleine essen aus Verlegenheit über die Menge, die man isst
-  (5) Ekelgefühle gegenüber sich selbst, Deprimiertheit oder grosse Schuldgefühle nach dem übermässsigen Essen
+  (1) *Wesentlich schneller essen als normal*
+  (2) *Essen bis zu einem unangenehmen Völlegefühl*
+  (3) *Essen grosser Nahrungsmengen, wenn man sich körperlich nicht hungrig fühlt*
+  (4) *Alleine essen aus Verlegenheit über die Menge, die man isst*
+  (5) *Ekelgefühle gegenüber sich selbst, Deprimiertheit oder grosse Schuldgefühle nach dem übermässsigen Essen*
 
-  C Es besteht deutliches Leiden wegen der Essanfälle.
+  *C Es besteht deutliches Leiden wegen der Essanfälle.*
 
-  D Die Essanfälle treten im Durchschnitt an Mindestens zwei Tagen in der Woche
-  für sechs Monate auf.
+  *D Die Essanfälle treten im Durchschnitt an Mindestens zwei Tagen in der Woche
+  für sechs Monate auf.*
 
-  E Die Essanfälle gehen nicht mit dem regelmässigen Einsatz von unangemessenen
+  *E Die Essanfälle gehen nicht mit dem regelmässigen Einsatz von unangemessenen
   kompensatorischen Verhaltensweisen einher (z.B. Purging-Verhalten, Fasten
   oder exzessive körperliche Betätigung) und sie treten nicht ausschliesslich
   im Verlauf einer Anorexia nervosa oder Bulimia nervosa auf."*
@@ -229,7 +229,7 @@ Tabelle S. 35 Prädisponierende Faktoren übernehmen......
 Adipositas
 ----------
 
-Den Begriff Adipositas definiert Pudel/Wesenhöfer als ein Übermass an
+Den Begriff Adipositas definiert Pudel & Westenhöfer als ein Übermass an
 Fettgewebe, das zu einer Beeinträchtigung der Gesundheit führt. Übergewicht
 bezieht sich auf das Körpergewicht und bezieht den Anteil Fettgewebe nicht mit
 ein.

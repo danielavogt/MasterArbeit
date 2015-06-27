@@ -58,7 +58,7 @@ Hauptmahlzeiten werden auf durchschnittlich 2000 Kilokalorien täglich
 ausgelegt, für jede Patientin gerichtet und kontrolliert. Diese strenge Strukur
 kann individuel und störungsspezifisch angepasst werden.
 
-Die Patientinnen mit einer Anorexia nervosa nehmen zusätzlich 3
+Die Patientinnen mit einer *Anorexia nervosa* nehmen zusätzlich 3
 Zwischenmahlzeiten zu sich, die jeweils 300 Kalorien beinhalten. Die Mahlzeiten
 werden von Pflegefachfrauen oder von Ernährungsberaterinnen begleitet und
 zeitlich begrenzt. Es wird ein Protokoll erstellt, auf das in der
@@ -72,7 +72,7 @@ kleine Teile schneiden, Essen verschwinden lassen, auf andere Teller
 abschätzend starren, die Speisen herunterschlingen etc.) werden sie auf ihr
 destruktives Verhalten aufmerksam gemacht.
 
-Bei den Patientinnen mit Bulimia nervosa wird darauf geachtet, welche
+Bei den Patientinnen mit *Bulimia nervosa* wird darauf geachtet, welche
 Nahrungsmittel sinnvoll sind und das Brechen nicht begünstigen. Der Einstieg in
 den Normalisierungsprozess wird ebenfalls mit gerichteten Mahlzeiten begonnen.
 Allerdings wird rasch auf den gerichteten und kontrollierten Modus verzichtet.

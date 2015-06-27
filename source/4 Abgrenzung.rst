@@ -4,8 +4,8 @@ Abgrenzung und Beziehung der Essstörungen
 
 Die verschiedenen Essstörungen überschneiden sich in ihren Symptombildern und
 stehen in einer Beziehung zueinander. So kann eine junge Frau mit einer
-Anorexia nervosa diese Form der Essstörung erfolgreich bewältigen und danach in
-eine Bulimia nervosa hineinrutschen. Daraus kann man schliessen, dass es
+*Anorexia nervosa* diese Form der Essstörung erfolgreich bewältigen und danach in
+eine *Bulimia nervosa* hineinrutschen. Daraus kann man schliessen, dass es
 dieser Frau nicht gelungen ist, ihre grosse Angst vor dem Gewicht und vor dem
 Dicker werden zu überwinden. Das kompensatorische Verhalten nach Essanfällen
 kann beispielsweise abgelegt werden, die Heisshungerattacken jedoch nicht.
@@ -16,9 +16,9 @@ zeigen die Beziehungen zwischen den verschiedenen Essstörungen wie folgt:
 
 Seite 249 Abbildung übernehmen
 
-Ein grosser Teil der Patientinnen und Patienten (60 %) nach Reich und Cierpka
+Ein grosser Teil der Patientinnen und Patienten (60%) nach Reich und Cierpka
 (2010), bleiben unter den Diagnoseschwellen der drei hauptsächlichen
-Essstörungen, Anorexia nervosa, Bulimia nervosa, Binge Eating Störung.
+Essstörungen, *Anorexia nervosa*, *Bulimia nervosa*, Binge Eating Störung.
 Damit gehören sie in die Gruppe "nicht näher bezeichnete Esstörungen"
 (Eating Disorders not otherwise specified, EDNOS; DSM-IV 307.50).
 
@@ -38,7 +38,7 @@ ausgegangen werden sollte, dass *"gerade die Chamäleonartigkeit von psychogenen
 Essstörungen nach einer individualisierten und fallspezifischen Triage
 verlangt"*.
 
-Der Unterschied der BES und der Bulimia nervosa ist durch folgende Merkmale
+Der Unterschied der BES und der *Bulimia nervosa* ist durch folgende Merkmale
 geprägt (Munsch, Biedert und Schlup, 2011, S. 32):
 
 
@@ -66,7 +66,7 @@ Insbesondere die BES ist meist mit einer Adipositas verbunden und ihre
 sich im Bereich der bariatrischen Chirurgie spezialisiert hat, benennt die
 Verbindung BES und Adipositas in seiner klinischen Beobachtung mit folgenden
 Zahlen: 30 -- 40 % seiner Patientinnen mit Adipositas haben eine BES, 20 -- 30
-% zeigen subklinische Symptome. Insofern geht er davon aus, dass rund 60 %
+% zeigen subklinische Symptome. Insofern geht er davon aus, dass rund 60%
 seiner Patientinnen mit einer BES kämpfen. Im klinischen Alltag kann heute
 davon ausgegangen werden, dass die BES und Adipositas kaum voneinander getrennt
 verstanden werden dürfen. Bereits in der Diagnostik wie auch in der

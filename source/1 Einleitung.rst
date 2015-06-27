@@ -47,7 +47,7 @@ Beruflich arbeite ich in der Klinik Wysshölzli in Herzogenbuchsee. Die Klinik b
 tolle Chance, mich intensiv mit Essstörungen auseinander zu setzen und für
 meinen Alltag zu lernen. Die therapeutische Begleitung von Patientinnen mit
 Essstörungen erlebe ich tagtäglich als enorme Herausforderung. Insbesondere die
-Anorexia nervosa ist mit ihrer lebensbedrohlichen Seite eine grosse Belastung
+*Anorexia nervosa* ist mit ihrer lebensbedrohlichen Seite eine grosse Belastung
 für die Betroffenen, deren Angehörige, aber auch für die behandelnden
 Fachleute.
 
@@ -56,7 +56,7 @@ versuche die verschiedenen Merkmale und deren therapeutischen Ziele
 herauszuarbeiten. Für die Essstörung Binge Eating Disorder (BED oder BES, in der Arbeit BES-Binge Eating Störung genannt)
 versuche ich die bestehenden verhaltenstherapeutischen Behandlungskonzepte mit
 der systemischen Komponente, die ich aus einem systemischen Behandlungskonzept
-für Anorexia nervosa ableite, zu ergänzen und anhand eines Fallbeispiels
+für *Anorexia nervosa* ableite, zu ergänzen und anhand eines Fallbeispiels
 anzuwenden. In meinem psychotherapeutischen Alltag begleite ich eine Patientin
 mit einer BES. Meine Erfahrungen fliessen ein und
 ergänzen meine theoretischen Erkenntnisse. Zum Schluss versuche ich den Nutzen
