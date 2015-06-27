@@ -115,13 +115,33 @@ bewusst zu üben und sich auf ihren Austritt vorzubereiten.
 Was ist nicht gelungen?
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Frau König wurde in der Klinik unter dem Essstörungskonzept eingeteilt. Dabei geriet ihr Cannabis- und Alkoholkonsum etwas in den Hintergrund. Mit einer gezieltere Therapiegestaltung unter Berücksichtigung der Essstörung und des Substanzkonsums könnte die Suchtdynamik und die Suchtfunktion noch fokussierter bearbeitet werden.
+Frau König wurde in der Klinik unter dem Essstörungskonzept eingeteilt. Dabei
+geriet ihr Cannabis- und Alkoholkonsum etwas in den Hintergrund. Mit einer
+gezieltere Therapiegestaltung unter Berücksichtigung der Essstörung und des
+Substanzkonsums könnte die Suchtdynamik und die Suchtfunktion noch fokussierter
+bearbeitet werden.
 
-Der systemische Therapieansatz konnte nur sehr rudimentär angewendet werden. Der Einbezug der nächsten Bezugspersonen war aus logistischen, zeitlichen und organisatorischen Gründen nicht gelungen. Damit konnte mit dem Problemsystem nicht gearbeitet werden. Eine systemische Diagnostik erlaubt der Patientin in ihrem Problemsystem ihre eigenen und die Dynamiken ihres Umfelds zu erkennen und neue Strategien dazu zu entwickeln. Diese Dimension konnte bei Frau König in der Einzeltherapie nicht kompensiert werden. Im Mehrpersonensetting könnte sie ihre Muster, ihre Prägung und ihre Beziehungen noch unmittelbarer erleben. Zusätzlich wäre es denkbar, unterstützende Ressourcen bei ihrer Familie zu aktivieren. Im ambulanten Setting der Nachbehandlung würde der Einbezug von Bezugspersonen Frau König erlauben eine Vertiefung ihrer Therapie zu erreichen und eine noch nachhaltigere Weiterentwicklung zu erzielen.
+Der systemische Therapieansatz konnte nur sehr rudimentär angewendet werden.
+Der Einbezug der nächsten Bezugspersonen war aus logistischen, zeitlichen und
+organisatorischen Gründen nicht gelungen. Damit konnte mit dem Problemsystem
+nicht gearbeitet werden. Eine systemische Diagnostik erlaubt der Patientin in
+ihrem Problemsystem ihre eigenen und die Dynamiken ihres Umfelds zu erkennen
+und neue Strategien dazu zu entwickeln. Diese Dimension konnte bei Frau König
+in der Einzeltherapie nicht **TODO kompensiert** werden. Im Mehrpersonensetting könnte
+sie ihre Muster, ihre Prägung und ihre Beziehungen noch unmittelbarer erleben.
+Zusätzlich wäre es denkbar, unterstützende Ressourcen bei ihrer Familie zu
+aktivieren. Im ambulanten Setting der Nachbehandlung würde der Einbezug von
+Bezugspersonen Frau König erlauben eine Vertiefung ihrer Therapie zu erreichen
+und eine noch nachhaltigere Weiterentwicklung zu erzielen.
 
-Ihre traumatischen Erlebnisse konnten mangels Stabilität und Zeit nicht gezielt angegangen werden.
+Ihre traumatischen Erlebnisse konnten mangels Stabilität und Zeit nicht gezielt
+angegangen werden.
 
-Der Transfer von der isolierten Welt in einer Klinik zum Alltagsgeschehen wurde mit der sorgfältigen Planung der Wochenenden und der nachfolgenden intensiven Reflexion bestmöglich gewährleistet. Einen direkten Kontakt mit dem Helfersystem von Frau König könnte den Uebergang und die damit verbundenen Risiken besser abgefedert werden. 
+Der Transfer von der isolierten Welt in einer Klinik zum Alltagsgeschehen wurde
+mit der sorgfältigen Planung der Wochenenden und der nachfolgenden intensiven
+Reflexion bestmöglich gewährleistet. Der direkte Kontakt mit dem
+Helfersystem von Frau König könnte den Übergang und die damit verbundenen
+Risiken besser abgefedern. 
 
 Bewertung der Therapie des Fallbeispiels
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
