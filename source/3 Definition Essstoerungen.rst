@@ -156,15 +156,15 @@ Zusammenhang mit einer Adipositas steht fusst.
 
 **TODO (oben/unten)**: Quelle?
 
-Nach Pudel/Westenhöfer (2003) kann die Essstörung BED mit der Bulimia nervosa
+Nach Pudel/Westenhöfer (2003) kann die Essstörung BES mit der Bulimia nervosa
 verglichen werden. Allerdings fallen die charakteristischen
 Kompensationsverhalten weg. Durch die häufigen hochkalorischen Nahrungsaufnahmen
-steigt das Risiko von Übergewicht. Studien besagen, dass bei BED-Patientinnen
+steigt das Risiko von Übergewicht. Studien besagen, dass bei BES-Patientinnen
 der Anteil von Patientinnen mit höherem Body Mass Index steigt. Weitere
 Untersuchungen haben gezeigt, dass sich unter den Übergewichtigen etwa 10 %
-BED-Patientinnen befinden. Folglich dürften sich unter den Teilnehmerinnen von
-Gewichtsreduktionsprogrammen überproportional mehr BED-Patientinnen befinden.
-Häufig ist BED mit weiteren psychischen Störungen verbunden. Depressionen,
+BES-Patientinnen befinden. Folglich dürften sich unter den Teilnehmerinnen von
+Gewichtsreduktionsprogrammen überproportional mehr BES-Patientinnen befinden.
+Häufig ist BES mit weiteren psychischen Störungen verbunden. Depressionen,
 Angststörungen oder Persönlichkeitsstörungen sind im Vordergrund. Im Rahmen der
 Vierten Version des DSM wurde die Binge Eating Disorder (Bing-Eating-Störung,
 BES) als provisorische, separate diagnostische Kategorie aufgenommen (Spitzer

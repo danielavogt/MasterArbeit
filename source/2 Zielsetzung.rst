@@ -2,7 +2,7 @@
 Zielsetzung
 ===========
 
-Wie kann der Therapieprozess einer Frau mit einer BED durch die flexible
+Wie kann der Therapieprozess einer Frau mit einer BES durch die flexible
 Kombination systemischer und kognitiv-verhaltenstherapeutischer Elemente
 gestaltet werden? Ziel der Arbeit ist die Darstellung von Esstörungen und deren
 systemischen und/oder kognitiv-verhaltenstherapeutischen Behandlungskonzepten
