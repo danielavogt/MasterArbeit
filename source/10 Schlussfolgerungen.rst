@@ -10,12 +10,36 @@ und an aktuellen Symptomen. Sie setzt auf Erkenntnis und auf Kognition. Die
 klassische Systemik geht von einem Mehrpersonensetting aus und hat das
 Problemsystem im Fokus.
 
-Verhaltenstherapie ist sowohl für die Patientinnen wie auch für die Therapeutinnen ein leicht zugängliches Konzept, das der Therapeutin modularisierte Vorgehensweisen und den Patientinnen konkrete Hilfsinstrumente für ihre Symptome zur Verfügung stellt. Die Patientin kann anhand der eingängigen Modelle ihr Verhalten verstehen, reflektieren und Veränderungen relativ leicht umsetzen. So kann die Patientin in kurzer Zeit Erfolgserlebnisse haben, was sich wiederum positiv auf ihre Therapiemotivation auswirken kann.
+Verhaltenstherapie ist sowohl für die Patientinnen wie auch für die
+Therapeutinnen ein leicht zugängliches Konzept, das der Therapeutin
+modularisierte Vorgehensweisen und den Patientinnen konkrete Hilfsinstrumente
+für ihre Symptome zur Verfügung stellt. Die Patientin kann anhand der
+eingängigen Modelle ihr Verhalten verstehen, reflektieren und Veränderungen
+relativ leicht umsetzen. So kann die Patientin in kurzer Zeit Erfolgserlebnisse
+haben, was sich wiederum positiv auf ihre Therapiemotivation auswirken kann.
 
-Das Konzept der Systemischen Psychotherapie setzt an einem komplett anderen Punkt an. Therapeutinnen setzen sich hauptsächlich mit Systemdynamiken auseinander und wie sie in Systemen Entwicklungsanreize setzen können. Sie versuchen in erster Linie ein System zu verstehen und Hypothesen zu bilden. Mithilfe von gezielten Fragen versuchen sie Perspektivenwechsel bei den Systemmitgliedern zu bewirken und die Systemmuster erlebbar zu machen. Letztendlich braucht es eine Erschütterung des Systems, um die Selbstorganisations- und heilungskräfte des Systems zu aktivieren. Obwohl eine Therapie im Mehrpersonensetting die Systemmuster unmittelbar erlebbar machen kann, ist der Veränderungsprozess sehr viel weniger gut erkennbar. Eine Entwicklung kann meist erst im Nachhinein erfasst werden. Der Erfolg macht sich meist später und ausserhalb der Therapiestunde bemerkbar. Für die Therapeutin ist ihre Haltung entscheidend und nicht ihre therapeutischen Instrumente.
+Das Konzept der Systemischen Psychotherapie setzt an einem komplett anderen
+Punkt an. Therapeutinnen setzen sich hauptsächlich mit Systemdynamiken
+auseinander. Sie versuchen in Systemen Entwicklungsanreize zu setzen. 
+versuchen in erster Linie ein System zu verstehen und Hypothesen zu bilden.
+Mithilfe von gezielten Fragen versuchen sie Perspektivenwechsel bei den
+Systemmitgliedern zu bewirken und die Systemmuster erlebbar zu machen.
+Letztendlich braucht es eine Erschütterung des Systems, um die
+Selbstorganisations- und heilungskräfte des Systems zu aktivieren. Obwohl eine
+Therapie im Mehrpersonensetting die Systemmuster unmittelbar erlebbar machen
+kann, ist der Veränderungsprozess sehr viel weniger gut erkennbar. Eine
+Entwicklung lässt sich meist erst im Nachhinein erfassen. Ein allfälliger Erfolg macht sich
+meist erst später und ausserhalb der Therapiestunde bemerkbar. Für die Therapeutin
+ist ihre Haltung entscheidend und nicht ihre therapeutischen Instrumente.
 
-Sie stützt sich auf die Selbstorganisation und -heilungskräfte eines Systems. Für mich ist Verhaltenstherapie zu einem gewissen Grad mit Schulmedizin zu vergleichen. Im Fokus stehen die Symptome und die Symptombekämpfung ist
-zentral. Die Symstemische Therapie hingegen stützt sich meiner Ansicht nach auf die Selbstorganisation des Systems und sie ist ausgesprochen zurückhaltend mit strukturierenden, leitenden und vorgebenden Strategien. Ihre zentrale Methode ist das Anstossen eines Veränderungsprozesses mittels Perspektivenwechsel und unmittelbar erlebter Systemdynamik.
+Sie stützt sich auf die Selbstorganisation und -heilungskräfte eines Systems.
+Für mich ist Verhaltenstherapie zu einem gewissen Grad mit Schulmedizin zu
+vergleichen. Im Fokus stehen die Symptome und die Symptombekämpfung ist
+zentral. Die Symstemische Therapie hingegen stützt sich meiner Ansicht nach auf
+die Selbstorganisation des Systems und sie ist ausgesprochen zurückhaltend mit
+strukturierenden, leitenden und vorgebenden Strategien. Ihre zentrale Methode
+ist das Anstossen eines Veränderungsprozesses mittels Perspektivenwechsel und
+unmittelbar erlebter Systemdynamik.
 
 Stationäres Setting
 ^^^^^^^^^^^^^^^^^^^
