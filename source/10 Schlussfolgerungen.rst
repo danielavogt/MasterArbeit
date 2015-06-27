@@ -9,8 +9,8 @@ nur trivial. Verhaltenstherapie orientiert sich hauptsächlich am hier und jetzt
 und an aktuellen Symptomen. Sie setzt auf Erkenntnis und auf Kognition. Die
 klassische Systemik geht von einem Mehrpersonensetting aus und hat das
 Problemsystem im Fokus. Sie stützt sich auf die Selbstorganisation und
--heilungskräfte eines Systems. Für mich ist Verhaltenstherapie ein bisschen wie
-Schulmedizin. Im Fokus stehen die Symptome und die Symptombekämpfung ist
+-heilungskräfte eines Systems. Für mich ist Verhaltenstherapie zu einem gewissen Grad mit
+Schulmedizin zu vergleichen. Im Fokus stehen die Symptome und die Symptombekämpfung ist
 zentral. Die Symstemische Therapie hingegen verfolgt in meinem Verständnis
 einen ganzheitlichen Ansatz.
 
