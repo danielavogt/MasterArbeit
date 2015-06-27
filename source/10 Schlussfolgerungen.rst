@@ -97,6 +97,8 @@ in dieser Phase des Aufbruchs (von bestehenden Mustern) und der Neuorganisation
 gezielt Ressourcen anspricht oder neue Perspektiven eröffnet, können
 Veränderungsprozesse oder Entwicklungsanreize angestossen werden.
 
+In meiner Literatur aus der Organisationsentwicklung habe ich Parallelen zur systemischen Psychotherapie gefunden:
+Folgendes Zitat zeigt, dass sich die Organisation derselben Prinzipien wie die systemische Psychotherapie bedient.  
 Irene Baumgartner et al. (1998), OE-Prozesse - Die Prinzipien systemischer
 Organisationsentwicklung: *"Wir haben auf dieses Merkmal der Selbstorganisation
 bereits bei der Zielbeschreibung von OE verwiesen, wonach Organisationen als
@@ -114,7 +116,7 @@ Organisation zu bieten - es geht mehr darum, einem System einen
 entwicklungsfördernden Rahmen zu bieten als auf es einzuwirken."*
 
 Dieses Bewusstsein, diese Haltung kann 1 zu 1 auf die systemische
-Psychotherapie übertragen werden. Eine entscheidende Einsicht!
+Psychotherapie übertragen werden.
 
 Verhaltenstherapie
 ^^^^^^^^^^^^^^^^^^
