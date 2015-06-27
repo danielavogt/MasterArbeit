@@ -7,6 +7,8 @@ Hauser R. (2015), Persönliches Interview der Autorin, Bariatrischer Chirurg, Ko
 
 Hippel A. & Reich G. (2010). Psychodynamische und familienorientierte Behandlung der Adipositas in Reich G. und Cierpka M. (Hrsg), *Psychotherapie der Esstörungen, Krankheitsmodelle und Therapiepraxis - störungspezifisch und schulenübergreifen* (S 232--251). Stuttgart: Thieme
 
+Kanfer (2006). **. 
+
 Liechti J. (2008). *Magersucht in Therapie. Gestaltung therapeutischer Beziehungssysteme*. Heidelberg: Carl-Auer.
 
 Liechti J. (2014). *"Essstörungen - kombinierter systemischer Ansatz in Theorie

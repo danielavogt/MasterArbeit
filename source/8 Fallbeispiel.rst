@@ -11,8 +11,8 @@ Auftragssituation
 Klinik Wysshölzli: Meine Arbeitgeberin ist die Klinik Wysshölzli in
 Herzogenbuchsee, die stationäre Behandlungen für Frauen mit
 Abhängigkeitserkrankungen und Essstörungen anbietet. Unsere Patientinnen setzen
-sich zu 2/3 aus Frauen mit einer Essstörung und 1/3 mit einer Suchterkrankung
-meist mit einem Alkoholabusus zusammen. Unsere Therapie beinhaltet ein
+sich zu 2/3 aus Frauen mit einer Essstörung und zu 1/3 mit einer Suchterkrankung,
+meist mit einem Alkoholabusus, zusammen. Unsere Therapie beinhaltet ein
 kontrolliertes Essprogramm (beschrieben im Kapitel .....), Körper- und
 Kunsttherapie, psychiatrische und somatische Versorgung sowie Psychotherapie.
 Ich bin als Psychotherapeutin mit fallführender Aufgabe angestellt. Unser Ziel
@@ -22,14 +22,13 @@ ausweisen. Bei einer Adipositas gibt es eine Gewichtsobergrenze, da unsere
 Infrastruktur nicht auf sehr schwere Menschen ausgerichtet ist (etwa 150kg).
 Frauen mit einem Substanzmissbrauch von illegalen Drogen behandeln wir nicht,
 davon ausgenommen ist Cannabis. Unsere Therapie ist auf eine Grundbehandlung
-von 12 Wochen ausgelegt, die jeweils um 6 Woche verlängert werden kann bis
-maximal 48 Wochen.
+von 12 Wochen ausgelegt, die jeweils um 6 Wochen bis maximal 48 Wochen verlängert werden kann. 
 
 Zuweisung
 ^^^^^^^^^
 
-Frau König ist eine 34-jährige Frau, die mit einer Binge Eating Störung für
-eine stationäre Behandlung von ihrer Psychiaterin eingewiesen wurde. Frau König
+Frau König ist eine 34-jährige Frau die von ihrer Psychiaterinmit einer Binge Eating Störung für
+eine stationäre Behandlung eingewiesen wurde. Frau König
 könne seit mehreren Monaten ihre Arbeitsleistung nicht mehr erbringen. Neben
 häufigen Essattacken konsumiere sie Alkohol und Cannabis in einem schädlichen
 Masse. Ihre Lebenssituation hätte sich so zugespitzt, dass sie einen
@@ -39,10 +38,10 @@ ambulante Therapie sei neben dem Substanzmissbrauch und den Essattacken eine
 Traumatisierung im Alter von 16 Jahren während eines Fremdsprachenaufenthalts
 in der Romandie.
 
-Aufnahmeprocedere
+Aufnahmeprozedere
 ^^^^^^^^^^^^^^^^^
 
-Bevor Patientinnen in der Klinik eintreten können, verfassen sie ein
+Bevor Patientinnen in die Klinik eintreten können, verfassen sie ein
 Motivationsschreiben, nehmen an einem Infonachmittag teil und melden sich zu
 einem Eintrittsgespräch bei unserer Psychiaterin an. In diesem Gespräch werden
 die Voraussetzungen für eine Aufnahme geklärt sowie die Therapiebedingungen
@@ -54,8 +53,8 @@ Erstgespräch
 
 Nach dem erfolgten Eintritt werden die Patientinnen zu einem Erstgespräch zu
 ihrer Einzelpsychotherapeutin eingeladen. In dieser ersten Therapiesitzung wird
-die Ausgangslage besprochen, der BSI durchgeführt und die Therapiephasen
-nochmals aufgegriffen. In diesem Erstkontakt stellt sich die Psychotherapeutin
+die Ausgangslage besprochen, ein Eintrittstest durchgeführt und die Therapiephasen
+besprochen. In diesem Erstkontakt stellt sich die Psychotherapeutin
 vor und erfragt die Vorstellungen der Patientin zur stationären Therapie. Der
 Aufbau einer tragfähigen, vertrauensvollen Therapiebeziehung ist von
 entscheidender Bedeutung.
@@ -78,7 +77,7 @@ Beziehungen, auf die sie sich 100%ig verlassen könne. In ihrer Familie seien
 insbesondere die Beziehungen zu ihrer Mutter und zu ihrer fünf Jahre jüngeren
 Schwester sehr eng. Seit sie erwachsen sei, hätte sich auch die Beziehung zu
 ihrem Vater verbessert. Ihre Grosseltern mütterlicherseits würden noch leben
-und seien in der Nähe ihres Geburtsortes beheimatet. Die Grossmutter jedoch sei
+und seien in der Nähe ihres Geburtsortes beheimatet. Die Grossmutter sei jedoch
 zunehmend dement, was sie sehr schmerze.
 
 An ihrem Arbeitsort sei sie nicht glücklich und fühle sich überfordert. Sie
@@ -105,7 +104,7 @@ wöchentliche einen Essanfall gehabt habe. Dabei habe sie nach der Arbeit grosse
 Mengen von Brot und Käse zu sich genommen. Oft sei sie vor dem Fernseher
 gesessen und dabei habe sie den Überblick über die Menge die sie gegessen
 hätte, komplett verloren. Zusätzlich konsumierte sie vermehrt Cannabis und
-trinke zunehmend Alkohol. Bei beiden Substanzen handle es sich um
+trinke zunehmend Alkohol. Bei beiden Substanzen handle es sich um einen
 missbräuchlichen Konsum. Frau König habe bei beiden Substanzen die Kontrolle
 über ihren Konsum nicht verloren. Weil für Frau König der Substanzkonsum nicht
 im Vordergrund ihrer Problematik stand, wurde sie für das Behandlungskonzept
@@ -116,9 +115,9 @@ Problembeschreibung aus systemischer und verhaltenstherapeutischer Sicht
 
 Die beiden Problembeschreibungskonzepte unterscheiden sich in wesentlichen
 Punkten. Die Systemikerinnen beschreiben vorallem das interpersonelle Geschehen
-in dem sie ein Problemsystem skizzieren und die Verhaltenstherapeutinnen
-erstellen eine Verhaltensanalyse und entwickeln daraus ein hypothetisches
-Bedingungsmodell (Kanfer, 2006). Zum besseren Verständnis werden hier die
+in dem sie ein Problemsystem skizzieren während die Verhaltenstherapeutinnen
+eine Verhaltensanalyse erstellen und daraus daraus ein hypothetisches
+Bedingungsmodell enwickeln (Kanfer, 2006). Zum besseren Verständnis werden hier die
 wesentlichen Merkmale der beiden Therapieschulen in Bezug auf die Gestaltung
 des Therapieprozesses zusammengefasst.
 
@@ -130,11 +129,11 @@ Genogramm von Frau König
 Frau König sei die erste Tochter einer damals knapp 24jährigen Schweizerin und
 eines 24jährigen Deutschen, der teilweise in der Schweiz aufwuchs. Für das
 damals erst seit kurzem liierte Paar sei die Schwangerschaft überraschend
-gekommen und im Grunde zu früh. Die Mutter von Frau König sei die Tochter einer
+und im Grunde zu früh gekommen. Die Mutter von Frau König sei die Tochter einer
 angesehenen Familie, die eine Garage betrieben habe. Sie sei als
 Automechanikerin bei ihrem Vater im Betrieb tätig gewesen. Ihren späteren Mann
 hätte sie im Beruf kennen gelernt. Der Vater von Frau König, ebenfalls
-Automechaniker, sei als sie unterwegs war ebenfalls in den Familienbetrieb
+Automechaniker, sei, als sie unterwegs war, ebenfalls in den Familienbetrieb
 eingetreten. Wohnhaft wäre das Paar in demselben Dorf gewesen, wo der
 Familienbetrieb ansässig sei. Die Autogarage befände sich in einem grösseren
 Gebäudekomplex, in dem sich die Wohnung der Grosseltern mütterlicherseits sowie
@@ -154,7 +153,7 @@ Problemsystem
 ^^^^^^^^^^^^^
 
 Frau König beschreibt ihre Arbeitssituation und die erlebte Vergewaltigung als
-16jähriges Aupairmädchen in der Romandie. Mit zunehmendem Vertrauen konnte sie
+16-jähriges Aupairmädchen in der Romandie. Mit zunehmendem Vertrauen konnte sie
 in der Therapie von ihren traumatischen Erfahrungen berichten. Sie hätte mit
 einem ihr unbekannten Mann heftig geflirtet. Weiter hätte sie nicht gehen
 wollen. Ihr Nein habe der Mann nicht akzeptiert und sie brutal vergewaltigt.
@@ -213,7 +212,7 @@ Als zentraler und wichtiger Teil des Problemsystems ist das stationäre Umfeld
 zu betrachten. Die therapeutische Gemeinschaft bildet eine Plattform auf der
 sich die verschiedenen Muster reinszenieren können.
 
-In den Therapiesitzungen skizziert Frau König und ich das Problemsystem. Dazu
+In den Therapiesitzungen skizzieren Frau König und ich das Problemsystem. Dazu
 gehören ihr Freund S., ihr Chef Herr H., Ihre Eltern E. und D., ihre Schwester
 T.. Eine ebenfalls wichtige Person im Problemsystem ist ihre ambulante
 Psychiaterin, zu der Frau König nach der stationären Therapie zurückkehren will
@@ -226,7 +225,7 @@ In der Erarbeitung des Genogramms erzählt Frau König über ihre Jugend. Sie
 beschrieb ihre Situation zuhause. Die Eltern beide tätig im Familienbetrieb
 trugen ihre Sorgen nach Hause. Ihre Mutter war umgeben von sehr
 temperamentvollen und dominanten Männern im Geschäft. Sowohl ihr Vater wie auch
-ihr Mann lieferten sich tagtäglich wahre Machtkämpfe. Frau König's Mutter sei
+ihr Mann lieferten sich tagtäglich Machtkämpfe. Frau Königs' Mutter sei
 offenbar in einem starken Loyalitätskonflikt gestanden. Die angespannte
 Situation in der Garage übertrug sich auf das Familienleben. Frau König
 beschrieb, dass ihre Mutter zwar immer am Mittwochnachmittag zuhause war.
@@ -244,7 +243,7 @@ Ein grosser Einschnitt war für Frau König die Geburt ihrer fünf Jahre jünger
 Schwester. Auf einmal war sie nicht mehr im Zentrum ihrer Familie. Sie musste
 die Aufmerksamkeit ihrer Mutter und ihres Vaters mit ihrer Schwester teilen.
 Gleichzeitig trat sie in den Kindergarten ein und danach in die Schule. Diese
-Entwicklung empfand sie als Zurückweisung. Sie fühlte sich einsamer denn je.
+Entwicklung empfand sie als Zurückweisung. Sie fühlte sich dadurch sehr einsam.
 Weder ihre Mutter, die durch ihre berufliche Situation stark belastet war, noch
 ihr Vater, der oft cholerisch seine Anspannung ausagierte, stellten für Frau
 König einen sicheren Wert dar. Frau König beschrieb das Verhältnis insbesondere
@@ -253,16 +252,16 @@ herzlich verbunden. Dennoch wusste sie, dass sie ihre Mutter nicht noch
 zusätzlich belasten konnte.
 
 Aus dieser Situation hat Frau König gelernt, dass sie sich selber helfen muss,
-dass Arbeiten und Leisten der einzige Weg ist, sich Anerkennung zu verschaffen,
-dass sie nicht schwach sein darf, dass sie funktionieren muss. Ihre Schwester
+dass Arbeiten und Leistung der einzige Weg ist, sich Anerkennung zu verschaffen,
+dass sie nicht schwach sein darf und dass sie funktionieren muss. Ihre Schwester
 wählte den Weg sich allem anzupassen. Frau König hingegen rebellierte und
 stellte sich den hohen Anforderungen ihrer Eltern entgegen. Trotzdem
-entwickelte sie keinen stabilen Selbstwert und sie kämpfte dauernd um einen
+entwickelte sie keinen stabilen Selbstwert und kämpfte dauernd um einen
 Platz in der Familie. Es entbrannte ein unterschwelliger Konkurrenzkampf mit
 ihrer Schwester um die Gunst ihrer Eltern.
 
 Im stationären Aufenthalt zeigte Frau König ein hohes Anspannungslevel. Sie
-nahm alles mit Vollgas in Angriff und selten kam sie zur Ruhe. Während ihres
+nahm alles mit viel Energie in Angriff und selten kam sie zur Ruhe. Während ihres
 Aufenthaltes konstellierte sie sich fortwährend den hohen Stresspegel, den sie
 aus ihrer Familie bestens kannte. Zwei Komponenten hatten dabei eine zentrale
 Rolle: einerseits die sehr hohen Ansprüche an sich selber und anderseits eine
@@ -305,10 +304,10 @@ beeinflussen.
 Zweite Therapiephase
 --------------------
 
-Das stationäre Setting bietet einerseits einen sicheren, geregelten Rahmen und
+Das stationäre Setting bietet einerseits einen sicheren, geregelten Rahmen;
 anderseits ist die therapeutische Gemeinschaft ein anspruchsvolles Übungsfeld
 für soziale Interaktion. Zudem ergeben sich aus den verschiedenen
-Therapiegefässen und den vielschichtigen Zugängen manigfaltige Impulse. In der
+Therapiegefässen und den vielschichtigen Zugängen vielfältige Impulse. In der
 Psychotherapie gilt es die verschiedenen Entwicklungen im Auge zu behalten und
 zusammen zu führen, sowie die Patientin dahingehend zu begleiten, dass sie
 bestmöglich von allem profitieren kann. Frau König besuchte die
@@ -316,7 +315,7 @@ Bewegungstherapie, die Kunsttherapie, das Schwimmen, die Kochgruppe, das
 Ernährungscoaching und die Skillsgruppe. Sie wurde ebenfalls in das Gefäss
 "Schule des Geniessens" eingeteilt. Auf dieses Angebot wollte sie sich jedoch
 nicht einlassen. Sie erlebte dies als überflüssig, denn sie könne sehr gut und
-bewusst geniessen. Hingegen das Angebot der Skillsgruppe empfand Frau König als
+bewusst geniessen. Hingegen empfand Frau König das Angebot der Skillsgruppe als
 sehr hilfreich.
 
 Frau König lebte sich in der therapeutischen Gemeinschaft sehr schnell ein. Sie
@@ -330,8 +329,8 @@ Diese Phase des Therapieprozesses zeichnete sich dadurch aus, dass Frau König
 wiederholt in Krisen geriet. Anfänglich wurden ihre Krisen durch Flashbacks und
 Alpträume ausgelöst. Frau König wurde von Gefühlen überschwemmt und verlor ihre
 Selbstkontrolle. Sie konnte sich dann nicht mehr auf ihre aktuelle Tätigkeit
-konzentrieren und weinte stark. Sie geriet in eine Handlungsunfähigkeit. Ihre
-Bilder die sie einholten, konnte sie nicht benennen. Es gelang ihr jedoch, sich
+konzentrieren und weinte stark. Sie geriet in eine Handlungsunfähigkeit. Die
+Bilder, die sie einholten, konnte sie nicht benennen. Es gelang ihr jedoch, sich
 Hilfe zu holen, indem sie mich als ihre Einzeltherapeutin aufsuchte. Diese
 Sitzungen hatten den Charakter einer Krisenintervention. Dabei versuchten wir
 gemeinsam zu erarbeiten, was gerade passiert ist. Frau König gewann dadurch ein
@@ -345,41 +344,39 @@ erlaubte, frühzeitig zu reagieren, um sich vor einer Handlungsunfähigkeit zu
 schützen. Mit der Zeit veränderten sich die auslösenden Situationen. In der
 zweiten Therapiephase waren es soziale Stressoren, die Frau König zusetzten.
 
-Intensiv arbeiteten wir daran, dass sich Frau König Strategien aneignete, die
-ihr erlaubten, sich selber besser regulieren zu können. Dabei spielt
+Wir arbeiteten intensiv arbeiteten daran, dass sich Frau König Strategien aneigne, die
+ihr erlauben, sich selber besser regulieren zu können. Dabei spielt
 Achtsamkeit eine zentrale Rolle. Frau König kämpfte vorallem mit sich selber.
-Sie hatte die Tendenz sehr hohe Ansprüche an Perfektion an sich zu haben und
-gleichzeitig wertete sie sich dauernd ab. Sie erwartete von sich, dass sie
+Sie hatte die Tendenz sehr hohe Ansprüche an Perfektion an sich zu haben während Sie sich gleichzeiting daurnd abwertete. Sie erwartete von sich, dass sie
 alles selber im Griff hat. Ihre starken Gefühle konnte sie sich kaum erlauben.
-Es viel ihr ausgesprochen schwer, Wut, Aggression, Enttäuschung, Verletzung
+Es fiel ihr ausgesprochen schwer, Wut, Aggression, Enttäuschung, Verletzung
 zuzulassen und zu akzeptieren. Besonders heikel waren für sie Momente, in denen
 sie sich übergangen und abgewertet fühlte.
 
-In ihrer langjährigen Beziehung fühlte sich Frau König vermehrt nicht mehr
+In ihrer langjährigen Beziehung fühlte sich Frau König nicht mehr
 wohl. Eine intensive Auseinandersetzung mit ihrem Beziehungsmuster war nur
 ansatzweise möglich, denn die Beziehung brach auseinander. So konnte ihr Freund
 nicht mehr zu einer gemeinsamen Sitzung eingeladen werden. Frau König erkannte
 für sich, wie sie sich bis anhin ihre Beziehungen konstelliert hatte. Eine
 Tendenz zu einer Dominanz resp. Unterwerfung konnte sie für sich
-herauskristallisieren.
+herauskristallisieren. **TODO**: was jetzt?
 
 In diesen Wochen setzte sich Frau König ebenfalls mit ihrer beruflichen
-Laufbahn auseinander. Bereits ihre schulische Laufbahn war gekennzeichnet durch
-viele Misserfolge. Sie scheiterte laufend an ihrer Lese- und
-Rechtsschreibschwäche. Offenbar setzten ihre Eltern und ihre Lehrerinnen immer
-wieder auf die gleiche Art: Mehr desselben - lernen - lernen - üben - üben bis
+Laufbahn auseinander. Bereits ihre schulische Laufbahn war durch
+viele Misserfolge gekennzeichnet. Sie scheiterte laufend an ihrer Lese- und
+Rechtsschreibschwäche. Ihre Eltern und ihre Lehrerinnen setzten immer
+wieder auf die gleiche Art des Umgangs damit: Mehr desselben: lernen, lernen, üben, üben bis
 zum Umfallen. Frau König zog daraus einen fatalen Schluss: Schwächen begegnet
 man mit eiserner Disziplin. Sie sollen ausgemerzt werden. Das Prinzip mit dem
 Kopf durch die Wand, was letztendlich cholerisch ist, ging Frau König in
 Fleisch und Blut über. Vieles in ihrem Leben hatte dieses Muster in sich.
-Dieses Prinzip lernte Frau König ebenfalls in ihrem Elternhaus. Auf biegen und
-brechen wurden die Anforderungen des Lebens gemeistert. Die Garage wurde
-weitergeführt obwohl eine Existenzsicherung in einem höchst unsicheren
-Geschäftsfeld immer härter wahr, der gnadenlose Konkurrenzkampf zwischen Vater
+Dieses Prinzip lernte Frau König ebenfalls in ihrem Elternhaus. Auf gleiche Art wurden die Anforderungen des Lebens gemeistert. Die Garage wurde
+weitergeführt, obwohl die Existenzsicherung in einem höchst unsicheren
+Geschäftsfeld immer härter wurde. Den Konkurrenzkampf zwischen Vater
 und Ehemann hielt die Mutter von Frau König stoisch aus, das Abschliessen einer
 ungeliebten Ausbildung wurde ohne Rücksicht auf Verlust weiterverfolgt. Schwach
 sein, aufgeben, sich geschlagen geben, nicht gewachsen sein, Schwächen erkennen
-und akzeptieren schien in Frau Königs Lebenskonzept keinen Platz zu haben.
+und akzeptieren schienen in Frau Königs Lebenskonzept keinen Platz zu haben.
 Schwäche war fest verbunden mit Selbstabwertung. Schwach ist man nicht!
 
 Genau dasselbe Muster zeigte sich bei Frau König im Umgang mit ihrer
@@ -393,10 +390,10 @@ selber anerkennt und wertschätzt. Im sozialen Kontakt, im Umgang mit Freunden
 und im Verhalten in der Klinik wirkte Frau König stets freundlich, humorvoll,
 zugewandt und selbstbewusst. Ihre starke Verbundenheit in ihrem Leben, ihre
 langjährigen Beziehungen basieren nicht zuletzt auf dieser gesunden
-lebenstüchtigen Seite von Frau König. Ihr Selbstbild ist nicht ausschliesslich
+lebenstüchtigen Seite. Ihr Selbstbild ist nicht ausschliesslich
 von Misserfolgen geprägt. Sie steht erstaunlicherweise zu ihrer Körperfülle und
-kann sich verführerisch präsentieren und flirtet gerne. Das Spiel um Verführung
-liebt sie sehr und hat sich dies auch phasenweise auszuleben erlaubt.
+kann sich verführerisch präsentieren und flirtet gerne. Das Spiel mit Verführung
+liebt sie sehr und sie hat sich erlaubt dies phasenweise auszuleben.
 
 Diese beiden Seiten erzeugen eine grosse innere Diskrepanz und Spannung. Frau
 König hat diese Spannung mit Essattacken, Cannabis und Alkohol gedämpft. Im
@@ -404,7 +401,7 @@ Verlauf der Therapie konnte sie zunehmend ihre Suchtdynamik erkennen und
 Gegenstrategien entwickeln. Die Substanzabstinenz trugen zu einem stabileren
 Selbstwert bei und das kontrollierte Essprogramm gaben Frau König den sicheren
 Rahmen, um ihr Essverhalten zu stabilisieren. Als willkommener Nebeneffekt nahm
-Frau König insgesamt 10,5 Kilo ab.
+Frau König insgesamt 10.5 Kilo ab.
 
 
 Dritte und abschliessende Phase
