@@ -23,7 +23,7 @@ jedenfalls nachdrücklich"*.
 Anorexia nervosa ICD-10 F50.0
 -----------------------------
 
-Das zentrale Mermal einer *Anorexia nervosa* ist laut Pudel & Westenhöfer (2003) die
+Das zentrale Merkmal einer *Anorexia nervosa* ist laut Pudel & Westenhöfer (2003) die
 Weigerung der Patientinnen eine genügende Nahrungsmenge zu sich zu nehmen. Diese
 Essstörung zeichnet sich durch ein rigid gezügeltes Essen aus. Die
 Kalorienzufuhr wird sehr gering gehalten. Es werden Mahlzeiten ausgelassen oder
@@ -168,9 +168,9 @@ Häufig ist BES mit weiteren psychischen Störungen verbunden. Depressionen,
 Angststörungen oder Persönlichkeitsstörungen sind im Vordergrund. Im Rahmen der
 Vierten Version des DSM wurde die Binge Eating Disorder (Bing-Eating-Störung,
 BES) als provisorische, separate diagnostische Kategorie aufgenommen (Spitzer
-et al., 1992; Fairburn et al., 1993; Munsch, Biedert, Schlup, 2011).
+et al., 1992; Fairburn et al., 1993; Munsch, Biedert & Schlup, 2011).
 
-Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, (2011), S. 27/28
+Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch et al, (2011), S. 27/28
 
   *"DSM-IV-TR (APA, 2000)*
 
@@ -207,7 +207,7 @@ Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch, Biedert, Schlup, 
 Ätiologie der Binge Eating Disorder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Munsch, Biedert und Schlup (2011) weisen darauf hin, dass zurzeit keine aktuellen
+Munsch et al (2011) weisen darauf hin, dass zurzeit keine aktuellen
 Forschungsbefunde bezüglich einer einheitlichen Ätiologie der BES vorliegen
 (Striegel-Moore et al., 2007). Die heutigen Erklärungsversuche basieren auf
 Querschnitts- oder retrospektiven Untersuchungen. Man geht davon aus, dass die

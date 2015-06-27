@@ -123,7 +123,7 @@ Veränderungsprozesse oder Entwicklungsanreize angestossen werden.
 
 In der Organisationsentwicklung habe ich Parallelen zur systemischen Psychotherapie gefunden.
 Folgendes Zitat zeigt, dass sich die Organisation derselben Prinzipien wie die systemische Psychotherapie bedient.  
-Baumgartner et al. (1998) sagen: 
+Baumgartner, Häfele, Schwarz und Sohm. (1998, S.40) sagen: 
 
   *"Wir haben auf dieses Merkmal der Selbstorganisation
   bereits bei der Zielbeschreibung von OE verwiesen, wonach Organisationen als

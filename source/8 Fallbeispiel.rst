@@ -117,7 +117,7 @@ Die beiden Problembeschreibungskonzepte unterscheiden sich in wesentlichen
 Punkten. Die Systemikerinnen beschreiben vorallem das interpersonelle Geschehen
 in dem sie ein Problemsystem skizzieren während die Verhaltenstherapeutinnen
 eine Verhaltensanalyse erstellen und daraus daraus ein hypothetisches
-Bedingungsmodell enwickeln (Kanfer, 2006). Zum besseren Verständnis werden hier die
+Bedingungsmodell enwickeln (Kanfer, Reinecker &  Schmelzer, 2006). Zum besseren Verständnis werden hier die
 wesentlichen Merkmale der beiden Therapieschulen in Bezug auf die Gestaltung
 des Therapieprozesses zusammengefasst.
 

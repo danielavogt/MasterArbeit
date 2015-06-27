@@ -11,10 +11,12 @@ Dicker werden zu überwinden. Das kompensatorische Verhalten nach Essanfällen
 kann beispielsweise abgelegt werden, die Heisshungerattacken jedoch nicht.
 Meist ist die Folge, dass die betroffenen Personen an Gewicht zunehmen und
 sogar eine Adipositas, insbesondere eine Binge Eating Störung (BES) entwickeln
-können. Die Übergänge sind dementsprechend fliessend. Pudel und Westenhöfer (2003)
+können. Die Übergänge sind dementsprechend fliessend. Pudel & Westenhöfer (2003)
 zeigen die Beziehungen zwischen den verschiedenen Essstörungen wie folgt:
 
-Seite 249 Abbildung übernehmen
+.. figure:: images/pudel_westenhoefer.png
+   
+   Beziehungen der Essstörungsdiagnosen nach DSM-IV
 
 Ein grosser Teil der Patientinnen und Patienten (60%) nach Reich und Cierpka
 (2010), bleiben unter den Diagnoseschwellen der drei hauptsächlichen
@@ -39,7 +41,7 @@ Essstörungen nach einer individualisierten und fallspezifischen Triage
 verlangt"*.
 
 Der Unterschied der BES und der *Bulimia nervosa* ist durch folgende Merkmale
-geprägt (Munsch, Biedert und Schlup, 2011, S. 32):
+geprägt (Munsch et al., 2011, S. 32):
 
 
 - *Keine regelmässigen Kompensationsversuche*

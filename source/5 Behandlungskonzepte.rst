@@ -73,7 +73,7 @@ sorgfältig, zurückhaltend und vorsichtig zu prüfen.
 Verhaltenstherapeutischer Ansatz
 --------------------------------
 
-In Munsch, Biedert und Schlup (2011) wird ein Manual für die Behandlung von BES
+In Munsch et al (2011) wird ein Manual für die Behandlung von BES
 in Gruppen vorgestellt. Als erstes Ziel definieren die Autoren
 die Normalisierung des Essverhaltens und damit die Bewältigung der Essstörung.
 Erst in zweiter Linie wird, wenn indiziert, eine Gewichtsreduktion angestrebt.

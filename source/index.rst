@@ -2,14 +2,6 @@
  Binge Eating Disorder
 =======================
 
-Masterarbeit von Daniela Vogt Fischer
-
-Eingereicht
-
-Betreuer: ...
-
-Contents:
-
 .. toctree::
    :maxdepth: 2
 
@@ -28,4 +20,4 @@ Contents:
    11 Fazit
    12 Quelle
 
-
+   
