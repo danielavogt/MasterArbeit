@@ -14,9 +14,9 @@ sogar eine Adipositas, insbesondere eine Binge Eating Störung (BES) entwickeln
 können. Die Übergänge sind dementsprechend fliessend. Pudel & Westenhöfer (2003)
 zeigen die Beziehungen zwischen den verschiedenen Essstörungen wie folgt:
 
-.. figure:: images/pudel_westenhoefer.png
+.. figure:: images/westenhoefer.png
    
-   Beziehungen der Essstörungsdiagnosen nach DSM-IV
+   Beziehungen der Essstörungsdiagnosen nach DSM-IV (Pudel & Westenhöfer, 2003)
 
 Ein grosser Teil der Patientinnen und Patienten (60%) nach Reich und Cierpka
 (2010), bleiben unter den Diagnoseschwellen der drei hauptsächlichen

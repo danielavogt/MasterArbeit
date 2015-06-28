@@ -5,8 +5,6 @@ Baumgartner I., Häfele W., Schwarz M. & Sohm K. (1998), *OE-Prozesse - Die Prin
 
 Bruch H. (1991), *Essstörungen - Zur Psychologie und Therapie von Übergewicht und Magersucht*, Frankfurt: Fischer.
 
-Fairburn, Bohn, (2005), *foo*,
-
 Hauser R. (2015), Persönliches Interview der Autorin, Bariatrischer Chirurg, Konsulararzt Spital Lachen.
 
 Hippel A. & Reich G. (2010). Psychodynamische und familienorientierte Behandlung der Adipositas in Reich G. und Cierpka M. (Hrsg), *Psychotherapie der Esstörungen, Krankheitsmodelle und Therapiepraxis - störungspezifisch und schulenübergreifen* (S 232--251). Stuttgart: Thieme

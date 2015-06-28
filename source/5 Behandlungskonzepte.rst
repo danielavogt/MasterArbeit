@@ -2,9 +2,6 @@
 Behandlungskonzepte
 ===================
 
-In diesem Kapitel wird das systemische und das verhaltenstherapeutische Behandlungsmodell besprochen.
-
-
 Systemisches Behandlungskonzept
 -------------------------------
 
@@ -34,16 +31,18 @@ abgestimmt sein müssen. Die Behandlung soll individualisiert, fall- und
 phasenspezifisch aufgebaut sein. Er stellt die verschiedenen Bereiche in einem
 Hexagon dar (Liechti 2011). :
 
-Hegaxon der Therapiemassnahmen:
-
-Abb. 1 s. 207 übernehmen
+.. figure:: images/liechti1.png
+   
+   Hexagon der Therapiemassnahmen (Liechti & Liechti-Darbellay, 2011)
 
 Als zentrales Element des Therapiemodells anhand dessen im ZSB Bern behandelt
 wird, ist die Selbstorganisation der Patientin. Sie wird als Expertin ihrer
 eigenen Situation verstanden und für sämtliche Therapieschritte werden Auftrage
 von ihr eingeholt. Das Vorgehen basiert auf vier Phasen:
 
-Abb. 2 s. 209 übernehmen
+.. figure:: images/liechti2.png
+   
+   Die vier Therapiephasen (Liechti & Liechti-Darbellay, 2011) 
 
 In der *Phase I* ist die interdisziplinäre Zusammenarbeit wichtig. Sowohl die
 Anamnese wie auch medizinische Abklärungen erlauben eine fundierte,
@@ -111,10 +110,12 @@ fettnormalisierten Ernährung sowie die Funktion der Bewegungssteigerung
 begleiten diese Phase. Als abschliessende Themen wird auf die erreichten
 Erfolge und die Rückfallprophylaxe eingegangen.
 
-Ziele der ersten Behandlungsphase
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: images/munsch2_1.png
+   
+   Ziele der ersten Behandlungsphase (Munsch et al, 2011)
 
-Ziele der zweiten Behandlungsphase
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-übernehmen. S. 59
+.. figure:: images/munsch2_2.png
+   
+   Ziele der zweiten Behandlungsphase (Munsch et al, 2011)
+

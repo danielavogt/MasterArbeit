@@ -125,11 +125,7 @@ Selbstwertgefühl und ihrer Selbstsicherheit verknüpft. Dies kann einen
 aufrechterhaltenden Faktor darstellen. Zusätzlich leiden die Patientinnen häufig
 an Depressionen, starken Stimmungsschwankungen, Gefühlen von Wert- und
 Sinnlosigkeit, Schuldgefühlen, Suizidgedanken. Häufig werden auch Major
-Affective Disorder diagnostiziert. In der Literatur wird diskutiert, ob
-Bulimia und *Anorexia nervosa* eine Variante affektiver Störungen darstellen.
-Allerdings halten dies andere Fachpersonen für sekundär.
-
-**TODO (oben)**: Welche Literatur? Quellen
+Affective Disorder diagnostiziert. 
 
 Im Gegensatz zur Anorexie ist das Gewicht der Bulimikerin meist unauffällig.
 Zusätzlich haben die Patientinnen den Eindruck, dass sie zu schwer und
@@ -147,14 +143,9 @@ Patientinnen Menstruationszyklusstörungen weit verbreitet.
 Binge Eating Disorder/Binge Eating Störung BES
 ----------------------------------------------
 
-In einem späteren Kapitel wird ein verhaltenstherapeutisch-systemisch
-kombiniertes Behandlungskonzept für eine Binge Eating Störung entwickelt.
-Deshalb wird dieser Essstörung in diesem Kapitel besondere Aufmerksamkeit
-geschenkt. Zusätzlich wird die Adipositas ebenfalls vertiefter beschrieben, da
-die Entstehung einer BES höchstwahrscheinlich auf einer Ausgangslage die in
-Zusammenhang mit einer Adipositas steht fusst.
-
-**TODO (oben/unten)**: Quelle?
+Neben der BES wird zusätzlich die Adipositas vertiefter beschrieben, da
+die Entstehung einer BES höchstwahrscheinlich in
+Zusammenhang mit einer Adipositas steht.
 
 Nach Pudel & Westenhöfer (2003) kann die Essstörung BES mit der *Bulimia nervosa*
 verglichen werden. Allerdings fallen die charakteristischen
@@ -168,7 +159,7 @@ Häufig ist BES mit weiteren psychischen Störungen verbunden. Depressionen,
 Angststörungen oder Persönlichkeitsstörungen sind im Vordergrund. Im Rahmen der
 Vierten Version des DSM wurde die Binge Eating Disorder (Bing-Eating-Störung,
 BES) als provisorische, separate diagnostische Kategorie aufgenommen (Spitzer
-et al., 1992; Fairburn et al., 1993; Munsch, Biedert & Schlup, 2011).
+et al., 1992; Fairburn et al., 1993 zitiert in Munsch, Biedert & Schlup, 2011, S. 27).
 
 Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch et al, (2011), S. 27/28
 
@@ -224,7 +215,9 @@ prädisponieren (Genetik) oder begünstigen (Nahrungsmittelangebot,
 gesellschaftliche Wertvorstellungen) legen die Entstehungsfaktoren einer BES
 nahe.
 
-Tabelle S. 35 Prädisponierende Faktoren übernehmen......
+.. figure:: images/munsch.png
+   
+   Multifaktiorelles Enstehungsmodell der BES (Munsch et al, 2011)
 
 Adipositas
 ----------

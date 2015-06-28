@@ -147,7 +147,11 @@ mit seiner Frau in Deutschland, die Schwester lebe alleine, der jüngere Bruder
 mit seiner Frau und seinen vier Kindern. Die Grosseltern väterlicherseits wären
 bereits verstorben.
 
-Genogramm einfügen
+
+
+.. figure:: images/genogramm.png
+   
+   Genogramm von Frau König
 
 Problemsystem
 ^^^^^^^^^^^^^
