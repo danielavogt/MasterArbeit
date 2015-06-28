@@ -6,7 +6,8 @@
    :maxdepth: 2
 
 
-   1 Einleitung
+   0 Einleitung
+   1 Zusammenfassung
    2 Zielsetzung
    3 Definition Essstoerungen
    4 Abgrenzung
