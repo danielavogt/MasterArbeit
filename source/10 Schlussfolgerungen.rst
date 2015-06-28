@@ -20,7 +20,7 @@ haben, was sich wiederum positiv auf ihre Therapiemotivation auswirken kann.
 
 Das Konzept der Systemischen Psychotherapie setzt an einem komplett anderen
 Punkt an. Therapeutinnen setzen sich hauptsächlich mit Systemdynamiken
-auseinander. Sie versuchen in Systemen Entwicklungsanreize zu setzen. 
+auseinander. Sie versuchen in Systemen Entwicklungsanreize zu setzen.
 versuchen in erster Linie ein System zu verstehen und Hypothesen zu bilden.
 Mithilfe von gezielten Fragen versuchen sie Perspektivenwechsel bei den
 Systemmitgliedern zu bewirken und die Systemmuster erlebbar zu machen.
@@ -77,7 +77,7 @@ der Einbezug des Systems eine unmittelbare Erfassung der Systemdynamik, und
 damit auch die präzisere Erkennung der Störung und das direkte Setzen von
 Entwicklungsimpulsen.
 
-Behandlung einer Binge Eating Störung mit verhaltenstherapeutischen und systemischen Elementen
+Kombination von verhaltenstherapeutischen und systemischen Elementen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Der systemische Ansatz bietet sich für mich als Modell für die
@@ -122,8 +122,8 @@ gezielt Ressourcen anspricht oder neue Perspektiven eröffnet, können
 Veränderungsprozesse oder Entwicklungsanreize angestossen werden.
 
 In der Organisationsentwicklung habe ich Parallelen zur systemischen Psychotherapie gefunden.
-Folgendes Zitat zeigt, dass sich die Organisation derselben Prinzipien wie die systemische Psychotherapie bedient.  
-Baumgartner, Häfele, Schwarz und Sohm. (1998, S.40) sagen: 
+Folgendes Zitat zeigt, dass sich die Organisation derselben Prinzipien wie die systemische Psychotherapie bedient.
+Baumgartner, Häfele, Schwarz und Sohm. (1998, S.40) sagen:
 
   *"Wir haben auf dieses Merkmal der Selbstorganisation
   bereits bei der Zielbeschreibung von OE verwiesen, wonach Organisationen als
