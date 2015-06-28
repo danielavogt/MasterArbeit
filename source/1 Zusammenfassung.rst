@@ -2,7 +2,6 @@
 Zusammenfassung
 ===============
 
-
 In dieser Arbeit wird anhand eines Fallbeispiels die Gestaltung eines
 Therapieprozesses mit einer flexiblen Kombination eines
 verhaltenstherapeutischen und systemischen Ansatzes zur Behandlung einer
