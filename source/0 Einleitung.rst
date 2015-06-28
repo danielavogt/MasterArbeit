@@ -46,8 +46,8 @@ verhaltenstherapeutischen Ansätzen erfolgreich sein kann.
 Beruflich arbeite ich in der Klinik Wysshölzli in Herzogenbuchsee. Die Klinik bietet Behandlungen für Frauen mit Abhängigkeitserkrankungen und Essstörungen an. Diese Arbeit ist für mich eine
 tolle Chance, mich intensiv mit Essstörungen auseinander zu setzen und für
 meinen Alltag zu lernen. Die therapeutische Begleitung von Patientinnen mit
-Essstörungen erlebe ich tagtäglich als enorme Herausforderung. Insbesondere die
-*Anorexia nervosa* ist mit ihrer lebensbedrohlichen Seite eine grosse Belastung
+Essstörungen erlebe ich tagtäglich als grosse Herausforderung. Insbesondere die
+*Anorexia nervosa* ist mit ihrer lebensbedrohlichen Seite eine Belastung
 für die Betroffenen, deren Angehörige, aber auch für die behandelnden
 Fachleute.
 
@@ -63,4 +63,4 @@ ergänzen meine theoretischen Erkenntnisse. Zum Schluss versuche ich den Nutzen
 eines flexiblen Einsatzes verhaltenstherapeutischer und systemischer Ansätze
 herauszuarbeiten.
 
-Zugunsten der Lesbarkeit wird nur die weibliche Form benützt. Selbstverständlich sind dabei die Männer mitgemeint.
+Zugunsten der Lesbarkeit wird nur die weibliche Form benützt. Selbstverständlich sind dabei Männer mitgemeint.

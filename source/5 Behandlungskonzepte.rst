@@ -32,7 +32,7 @@ phasenspezifisch aufgebaut sein. Er stellt die verschiedenen Bereiche in einem
 Hexagon dar (Liechti 2011). :
 
 .. figure:: images/liechti1.png
-   
+
    Hexagon der Therapiemassnahmen (Liechti & Liechti-Darbellay, 2011)
 
 Als zentrales Element des Therapiemodells anhand dessen im ZSB Bern behandelt
@@ -41,8 +41,8 @@ eigenen Situation verstanden und für sämtliche Therapieschritte werden Auftrag
 von ihr eingeholt. Das Vorgehen basiert auf vier Phasen:
 
 .. figure:: images/liechti2.png
-   
-   Die vier Therapiephasen (Liechti & Liechti-Darbellay, 2011) 
+
+   Die vier Therapiephasen (Liechti & Liechti-Darbellay, 2011)
 
 In der *Phase I* ist die interdisziplinäre Zusammenarbeit wichtig. Sowohl die
 Anamnese wie auch medizinische Abklärungen erlauben eine fundierte,
@@ -67,12 +67,12 @@ gleichzeitig ist seine Patientin die Expertin ihrer Problematik.
 Beim Einbezug von nächsten Bezugspersonen gibt es im Bereich von
 Missbrauchsthemen Grenzen. In dieser Thematik wäre der Schutz der Betroffenen
 prioritär zu berücksichtigen und darum wäre ein Mehrpersonensetting sehr
-sorgfältig, zurückhaltend und vorsichtig zu prüfen. 
+sorgfältig, zurückhaltend und vorsichtig zu prüfen.
 
 Verhaltenstherapeutischer Ansatz
 --------------------------------
 
-In Munsch et al (2011) wird ein Manual für die Behandlung von BES
+In Munsch et al. (2011) wird ein Manual für die Behandlung von BES
 in Gruppen vorgestellt. Als erstes Ziel definieren die Autoren
 die Normalisierung des Essverhaltens und damit die Bewältigung der Essstörung.
 Erst in zweiter Linie wird, wenn indiziert, eine Gewichtsreduktion angestrebt.
@@ -111,11 +111,19 @@ begleiten diese Phase. Als abschliessende Themen wird auf die erreichten
 Erfolge und die Rückfallprophylaxe eingegangen.
 
 .. figure:: images/munsch2_1.png
-   
+
    Ziele der ersten Behandlungsphase (Munsch et al, 2011)
 
 
 .. figure:: images/munsch2_2.png
-   
+
    Ziele der zweiten Behandlungsphase (Munsch et al, 2011)
 
+Das Behandlungsmanual beinhaltet:
+
+- Erstellen eines Störungsmodells
+- Entwickeln von Strategien im Umgang mit ungünstigem Essverhalten
+- Bearbeiten von dysfunktionalen Kognitionen
+- Rückfallprophylaxe
+
+In der Nachbehandlungsphase werden regelmässig Auffrischsitzungen durchgeführt.    

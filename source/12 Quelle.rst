@@ -7,9 +7,9 @@ Bruch H. (1991), *Essstörungen - Zur Psychologie und Therapie von Übergewicht 
 
 Hauser R. (2015), Persönliches Interview der Autorin, Bariatrischer Chirurg, Konsulararzt Spital Lachen.
 
-Hippel A. & Reich G. (2010). Psychodynamische und familienorientierte Behandlung der Adipositas in Reich G. und Cierpka M. (Hrsg), *Psychotherapie der Esstörungen, Krankheitsmodelle und Therapiepraxis - störungspezifisch und schulenübergreifen* (S 232--251). Stuttgart: Thieme
+Hippel A. & Reich G. (2010). Psychodynamische und familienorientierte Behandlung der Adipositas in Reich G. und Cierpka M. (Hrsg), *Psychotherapie der Esstörungen, Krankheitsmodelle und Therapiepraxis - störungspezifisch und schulenübergreifen* (S 232--251). Stuttgart: Thieme.
 
-Kanfer F., Reinecker H., Schmelzer D. (2006). *Selbstmanagement-Therapie*, Heidelberg: Springer. 
+Kanfer F., Reinecker H., Schmelzer D. (2006). *Selbstmanagement-Therapie*, Heidelberg: Springer.
 
 Liechti J. (2008). *Magersucht in Therapie. Gestaltung therapeutischer Beziehungssysteme*. Heidelberg: Carl-Auer.
 
@@ -21,6 +21,6 @@ Munsch S., Biedert E., Schlup B. (2011). *Binge Eating - Kognitive Verhaltensthe
 
 Pudel V. & Westenhöfer J. (2003), *Ernährungspsychologie - Eine Einführung*, Göttingen: Hogrefe.
 
-Reich G. & Cierpeka M. (2010). Essstörungen und Adipositas: Epidemiologie - Diagnostik - Verläufe - Grundzüge der Therapie in Reich G. und Cierpka M. (Hrsg), *Psychotherapie der Esstörungen, Krankheitsmodelle und Therapiepraxis - störungspezifisch und schulenübergreifen* (S 27--61). Stuttgart: Thieme
+Reich G. & Cierpeka M. (2010). Essstörungen und Adipositas: Epidemiologie - Diagnostik - Verläufe - Grundzüge der Therapie in Reich G. und Cierpka M. (Hrsg), *Psychotherapie der Esstörungen, Krankheitsmodelle und Therapiepraxis - störungspezifisch und schulenübergreifen* (S 27--61). Stuttgart: Thieme.
 
-Striegel-Moore et al., (2007), *bar*
+Waadt S., Laessle R.G., Pirke K.M. (1992). *Bulimie: Ursachen und Therapie*. Berlin: Springer.

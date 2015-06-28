@@ -5,7 +5,7 @@ Störungsverständnis und therapeutische Interventionen
 
 Bei allen psychischen Auffälligkeiten steht die Frage der Funktion der Störung
 im Vordergrund. Die Verhaltenstherapeutinnen gehen auf die Suche nach einem
-Bedingungsmodell, anhand dessen sie die aufrechterhaltenden und **TODO** .......
+Bedingungsmodell, anhand dessen sie die auslösenden und aufrechterhaltenden
 Faktoren explorieren und in diesem Bereich Lernanreize initiieren. Die
 Systemikerinnen arbeiten idealerweise von Beginn weg mit dem System direkt.
 Bereits die Diagnostik gehört zum therapeutischen Entwicklungsprozess. Mit
@@ -52,7 +52,7 @@ Spannungszustände auszuhalten. In der Einzeltherapie konnten die auslösenden
 Momente skizziert und Strategien im Umgang mit den überschwemmenden Gefühlen
 geübt werden. Mit Hilfe der Skillsgruppentherapie setzte sich Frau König mit
 ihrer Stresstoleranz auseinander. Ihre überhöhten Ansprüche an sich selber
-waren und sind für Frau König eine kräfteraubende **TODO Baustelle**. Mithilfe eines
+waren und sind für Frau König ein kräfteraubendes Thema. Mithilfe eines
 Genogramms und der Exploration ihrer daraus gelernten Verhaltensmuster, konnte
 Frau König immer besser erkennen, wie sie sich konstant mit ihren etwas starren
 Wertvorstellungen überforderte. Sie lernte zunehmend, sich Ernst zu nehmen, ihre
@@ -117,7 +117,7 @@ Was ist nicht gelungen?
 
 Frau König wurde in der Klinik unter dem Essstörungskonzept eingeteilt. Dabei
 geriet ihr Cannabis- und Alkoholkonsum etwas in den Hintergrund. Mit einer
-gezieltere Therapiegestaltung unter Berücksichtigung der Essstörung und des
+gezielteren Therapiegestaltung unter Berücksichtigung der Essstörung und des
 Substanzkonsums könnte die Suchtdynamik und die Suchtfunktion noch fokussierter
 bearbeitet werden.
 
@@ -127,7 +127,7 @@ organisatorischen Gründen nicht gelungen. Damit konnte mit dem Problemsystem
 nicht gearbeitet werden. Eine systemische Diagnostik erlaubt der Patientin in
 ihrem Problemsystem ihre eigenen und die Dynamiken ihres Umfelds zu erkennen
 und neue Strategien dazu zu entwickeln. Diese Dimension konnte bei Frau König
-in der Einzeltherapie nicht **TODO kompensiert** werden. Im Mehrpersonensetting könnte
+in der Einzeltherapie nicht aufgenommen werden. Im Mehrpersonensetting könnte
 sie ihre Muster, ihre Prägung und ihre Beziehungen noch unmittelbarer erleben.
 Zusätzlich wäre es denkbar, unterstützende Ressourcen bei ihrer Familie zu
 aktivieren. Im ambulanten Setting der Nachbehandlung würde der Einbezug von
@@ -141,7 +141,7 @@ Der Transfer von der isolierten Welt in einer Klinik zum Alltagsgeschehen wurde
 mit der sorgfältigen Planung der Wochenenden und der nachfolgenden intensiven
 Reflexion bestmöglich gewährleistet. Der direkte Kontakt mit dem
 Helfersystem von Frau König könnte den Übergang und die damit verbundenen
-Risiken besser abgefedern. 
+Risiken besser abfedern.
 
 Bewertung der Therapie des Fallbeispiels
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

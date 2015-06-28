@@ -22,7 +22,7 @@ ausweisen. Bei einer Adipositas gibt es eine Gewichtsobergrenze, da unsere
 Infrastruktur nicht auf sehr schwere Menschen ausgerichtet ist (etwa 150kg).
 Frauen mit einem Substanzmissbrauch von illegalen Drogen behandeln wir nicht,
 davon ausgenommen ist Cannabis. Unsere Therapie ist auf eine Grundbehandlung
-von 12 Wochen ausgelegt, die jeweils um 6 Wochen bis maximal 48 Wochen verlängert werden kann. 
+von 12 Wochen ausgelegt, die jeweils um 6 Wochen bis maximal 48 Wochen verlängert werden kann.
 
 Zuweisung
 ^^^^^^^^^
@@ -117,11 +117,7 @@ Die beiden Problembeschreibungskonzepte unterscheiden sich in wesentlichen
 Punkten. Die Systemikerinnen beschreiben vorallem das interpersonelle Geschehen
 in dem sie ein Problemsystem skizzieren während die Verhaltenstherapeutinnen
 eine Verhaltensanalyse erstellen und daraus daraus ein hypothetisches
-Bedingungsmodell enwickeln (Kanfer, Reinecker &  Schmelzer, 2006). Zum besseren Verständnis werden hier die
-wesentlichen Merkmale der beiden Therapieschulen in Bezug auf die Gestaltung
-des Therapieprozesses zusammengefasst.
-
-To do: Therapiegestaltung systemisch und verhaltenstherapeutisch
+Bedingungsmodell entwickeln (Kanfer, Reinecker &  Schmelzer, 2006).
 
 Genogramm von Frau König
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -150,7 +146,7 @@ bereits verstorben.
 
 
 .. figure:: images/genogramm.png
-   
+
    Genogramm von Frau König
 
 Problemsystem
@@ -361,9 +357,7 @@ In ihrer langjährigen Beziehung fühlte sich Frau König nicht mehr
 wohl. Eine intensive Auseinandersetzung mit ihrem Beziehungsmuster war nur
 ansatzweise möglich, denn die Beziehung brach auseinander. So konnte ihr Freund
 nicht mehr zu einer gemeinsamen Sitzung eingeladen werden. Frau König erkannte
-für sich, wie sie sich bis anhin ihre Beziehungen konstelliert hatte. Eine
-Tendenz zu einer Dominanz resp. Unterwerfung konnte sie für sich
-herauskristallisieren. **TODO**: was jetzt?
+für sich, wie sie sich bis anhin ihre Beziehungen konstelliert hatte. Sie zeigte entweder dominante oder submissive Züge. Das Beziehungsmuster von Frau König konnte nicht weiter vertieft werden und sollte deshalb als Thema im ambulanten Setting der Nachbehandlung wieder aufgenommen werden. 
 
 In diesen Wochen setzte sich Frau König ebenfalls mit ihrer beruflichen
 Laufbahn auseinander. Bereits ihre schulische Laufbahn war durch

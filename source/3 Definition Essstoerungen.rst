@@ -20,8 +20,8 @@ Pudel & Westenhöfer (2003), S. 216: *"Die Misserfolgsbilanzen der
 Adipositastherapie bezeugen die mögliche Wirksamkeit solcher Mechanismen
 jedenfalls nachdrücklich"*.
 
-Anorexia nervosa ICD-10 F50.0
------------------------------
+Anorexia nervosa
+----------------
 
 Das zentrale Merkmal einer *Anorexia nervosa* ist laut Pudel & Westenhöfer (2003) die
 Weigerung der Patientinnen eine genügende Nahrungsmenge zu sich zu nehmen. Diese
@@ -125,7 +125,7 @@ Selbstwertgefühl und ihrer Selbstsicherheit verknüpft. Dies kann einen
 aufrechterhaltenden Faktor darstellen. Zusätzlich leiden die Patientinnen häufig
 an Depressionen, starken Stimmungsschwankungen, Gefühlen von Wert- und
 Sinnlosigkeit, Schuldgefühlen, Suizidgedanken. Häufig werden auch Major
-Affective Disorder diagnostiziert. 
+Affective Disorder diagnostiziert.
 
 Im Gegensatz zur Anorexie ist das Gewicht der Bulimikerin meist unauffällig.
 Zusätzlich haben die Patientinnen den Eindruck, dass sie zu schwer und
@@ -198,9 +198,8 @@ Diagnosekriterien der Binge-Eating-Störung (BES) nach Munsch et al, (2011), S. 
 Ätiologie der Binge Eating Disorder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Munsch et al (2011) weisen darauf hin, dass zurzeit keine aktuellen
-Forschungsbefunde bezüglich einer einheitlichen Ätiologie der BES vorliegen
-(Striegel-Moore et al., 2007). Die heutigen Erklärungsversuche basieren auf
+Striegel-Moore et al., 2007, (zitiert in Munsch et al., 2011) weisen darauf hin, dass zurzeit keine aktuellen
+Forschungsbefunde bezüglich einer einheitlichen Ätiologie der BES vorliegen. Die heutigen Erklärungsversuche basieren auf
 Querschnitts- oder retrospektiven Untersuchungen. Man geht davon aus, dass die
 BES eine multifaktorielle Ätiologie ausweist. Allerdings kommen zwei Gruppen
 von Risikofaktoren eine besondere Relevanz zu: Es sind dies einerseits
@@ -216,7 +215,7 @@ gesellschaftliche Wertvorstellungen) legen die Entstehungsfaktoren einer BES
 nahe.
 
 .. figure:: images/munsch.png
-   
+
    Multifaktiorelles Enstehungsmodell der BES (Munsch et al, 2011)
 
 Adipositas
@@ -296,7 +295,7 @@ sowie sozial erwünschtes Verhalten. Damit wird Angst vor Enttäuschung,
 Zurückweisung, Kränkung und Kritik vermieden. Adipöse werden oft von enormen
 Trennungsängsten bestimmt.
 
-Nach Hippel und Reich in Reich und Cierpka, 2010, erwerben Adipöse ihr
+Nach Hippel und Reich in Reich und Cierpka (2010) erwerben Adipöse ihr
 Übergewicht in einem Familiensystem. Eine systemische Perspektive erlaubt das
 Beziehungssystem, insbesondere die Aufrechterhaltung des Symptoms, ins Zentrum
 zu stellen. Dabei verstehen sie das aktuelle Ess- und Bewegungsverhalten sowie

@@ -92,7 +92,7 @@ Dimension auf. Da wir Menschen soziale Wesen sind und uns hauptsächlich als
 Teil eines Umfelds verstehen und uns stark darauf beziehen, darf in der
 Psychotherapie die Arbeit mit dem Patientinnen- oder Problemsystem neben der
 Arbeit mit dem Individuum nicht vernachlässigt werden. Jedes System hat zudem
-Selbstheilungs- oder reorganisationskräfte die es zu nutzen gilt. 
+Selbstheilungs- oder reorganisationskräfte die es zu nutzen gilt.
 
 Die Behandlung einer Binge Eating Störung profitiert von einem geschickten
 Einsatz beider Schulen. Die konkreten Ansatzpunkte der Verhaltenstherapie

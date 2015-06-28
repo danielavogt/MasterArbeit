@@ -15,7 +15,7 @@ können. Die Übergänge sind dementsprechend fliessend. Pudel & Westenhöfer (2
 zeigen die Beziehungen zwischen den verschiedenen Essstörungen wie folgt:
 
 .. figure:: images/westenhoefer.png
-   
+
    Beziehungen der Essstörungsdiagnosen nach DSM-IV (Pudel & Westenhöfer, 2003)
 
 Ein grosser Teil der Patientinnen und Patienten (60%) nach Reich und Cierpka
@@ -50,7 +50,7 @@ geprägt (Munsch et al., 2011, S. 32):
 - *Höheres Körpergewicht*
 - *Höherer Anteil betroffener Männer*
 - *Insgesamt heterogenere Patientinnengruppe bezüglich soziodemographischer und psychopathologischer Merkmale*
-  
+
 
 Als zentraler Unterschied zwischen BES und Adipositas wird das Erleben von
 Kontrollverlust während des Essens genannt. Die Essanfälle treten regelmässig

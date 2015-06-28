@@ -44,18 +44,18 @@ im Verlauf der Erkrankung verloren.
 
 Die zentralen Themen sind:
 
-- dauernde Beschäftigung mit dem Essen, unwiderstehliche Gier nach
-  Nahrungsmittel, Essattacken
-- Vermeidung von Gewichtszunahme durch: selbstinduziertes Erbrechen, Missbrauch
+- *"dauernde Beschäftigung mit dem Essen, unwiderstehliche Gier nach
+  Nahrungsmittel, Essattacken*
+- *Vermeidung von Gewichtszunahme durch: selbstinduziertes Erbrechen, Missbrauch
   von Abführmitteln, zeitweilige Hungerperioden, Einnahme von Appetitzüglern,
-  Schilddrüsenpräparaten oder Diuretika
+  Schilddrüsenpräparaten oder Diuretika"*
 
 (Reich, Cierpka, 2010, S. 34)
 
-- Geringes Selbstwertgefühl und das Bedürfnis gängigen Normen zu entsprechen
-- Dysfunktionale Denkschemata, die den Realitätsbezug erschweren
-- Eingeschränkte Fertigkeiten zur Bewältigung belastender Situationen
- 
+- *"Geringes Selbstwertgefühl und das Bedürfnis gängigen Normen zu entsprechen*
+- *Dysfunktionale Denkschemata, die den Realitätsbezug erschweren*
+- *Eingeschränkte Fertigkeiten zur Bewältigung belastender Situationen"*
+
 (Waadt, Laessle, Pirke, 1992)
 
 Binge Eating Störung BES
