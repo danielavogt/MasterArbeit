@@ -2,7 +2,6 @@
 Zusammenfassung
 ===============
 
-
 In dieser Arbeit wird anhand eines Fallbeispiels die Gestaltung eines Therapieprozesses mit einer flexiblen Kombination eines verhaltenstherapeutischen und systemischen Ansatzes zur Behandlung einer Patientin mit einer Binge Eating Störung beleuchtet. Verschiedene Essstörungen und deren Therapieschwerpunkte werden erklärt.
 
 Die Anorexia nervosa teilt sich in einen restriktiven und in einen bulimischen Typus auf. Beide Formen zeichnen sich durch übermässiges Hungern aus, wobei der bulimische Typus zusätzlich Gegenmassnahmen wie zum Beispiel Erbrechen oder Laxantienabusus einsetzt. Psychotherapeutisch sind grosse Angstzustände (vor Gewicht), Kontrollzwang, Körperschemastörung, Selbstwertgenerierung durch Disziplin, Leistungsanspruch und dysfunktionale Beziehungsmuster relevant.
